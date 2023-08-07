@@ -25,9 +25,9 @@ tagline: American Libraries before 1876
 # this description might appear in search result lists, keep around 160 characters max
 description: "Collection cards and transcribed data"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: libraries
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: cwulfman
 
 ##########
 # COLLECTION SETTINGS
@@ -51,8 +51,8 @@ metadata: alb1876
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Princeton University Library"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-link: https://library.princeton.edu/
+organization-logo-banner: https://library.princeton.edu/sites/all/themes/pul_base/assets/public/images/pul-logo-new.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########

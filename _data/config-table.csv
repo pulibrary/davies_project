@@ -1,5 +1,7 @@
 field,display_name
-title,Title
-date,Date
-description,Description
-subject,Subjects
+Name,Name
+State,State
+Locality,Locality
+Type,Type
+Found_Date,Found_Date
+Cess_Date,Cess_Date

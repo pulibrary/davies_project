@@ -1,14 +1,12 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+McMullen,McMullen Number,,,,
+Name,Name,,,DCTERMS.title,headline
+State,State,,,,
+Locality,Locality,,,,
+Found_Date,Founding Date,,,DCTERMS.date,dateCreated
+Cess_Date,Cessation Date,,,DCTERMS.date,dateCreated
+First_Ref,First Reference,,,DCTERMS.date,dateCreated
+Latest_Ref,Latest Reference,,,DCTERMS.date,dateCreated
+ED_for_Size,Earliest Date for Size,,,DCTERMS.date,dateCreated
+Size_at_ED,Size at Earliest Date,,,,
+Size_at_LD,Size at Latest Date,,,,
