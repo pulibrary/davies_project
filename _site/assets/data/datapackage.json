@@ -2,9 +2,9 @@
     "profile": "data-package",
     "name": "davies-collection-data",
     "title": "Davies Collection Data",
-    "description": "Metadata and data derived from Davies Collection. Collection cards and transcribed data",
+    "description": "Metadata and data derived from Davies Collection. The Davies Project was an effort to increase knowledge about American university libraries and their collections, begun by Princeton University President emeritus and Professor of Economics and Public Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books at the Princeton University Library in 2000.",
     "keywords":  ["libraries"],
-    "homepage": "https://pulibrary.github.io/davies-cb/",
+    "homepage": "http://localhost:4000/davies/",
     "contributors": [
         {
             "title": "Princeton University Library",
@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "/davies-cb/assets/img/collectionbuilder-logo.png",
+    "image": "/davies/assets/img/collectionbuilder-logo.png",
     "licenses": [
         {
             "name": "CC0-1.0",
