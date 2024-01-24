@@ -66,6 +66,8 @@ def convert_data(src_path, dest_path, server, bucket):
         header.append('objectid')
         header.append('subject')
         header.append('title')
+        header.append('location')
+        header.append('date')
         header.append('object_location')
         header.append('image_small')
         header.append('image_thumb')
@@ -82,6 +84,8 @@ def convert_data(src_path, dest_path, server, bucket):
             row['format'] = 'image/jpg'
             row['title'] = row['Name']
             row['subject'] = row['Type']
+            row['location'] = f"{row['Locality']}, {row['State']}"
+            row['date'] = row['Found_Date']
             data.append(row)
 
 
