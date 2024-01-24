@@ -1,0 +1,105 @@
+{
+    "profile": "data-package",
+    "name": "davies-collection-data",
+    "title": "Davies Collection Data",
+    "description": "Metadata and data derived from Davies Collection. Collection cards and transcribed data",
+    "keywords":  ["libraries"],
+    "homepage": "https://pulibrary.github.io/davies-cb/",
+    "contributors": [
+        {
+            "title": "Princeton University Library",
+            "path": "https://library.princeton.edu/",
+            "role": "author"
+        }
+    ],
+    "image": "/davies-cb/assets/img/collectionbuilder-logo.png",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Davies Collection Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        {
+            "name": "locations-csv",
+            "path": "subjects.csv",
+            "title": "Davies Collection metadata location counts in csv",
+            "description": "Unique values and counts of metadata location fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "locations-json",
+            "path": "locations.json",
+            "title": "Davies Collection metadata location counts in json",
+            "description":"Unique values and counts of metadata location fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "geodata-json",
+            "path": "geodata.json",
+            "title": "Davies Collection geographic metadata",
+            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "Davies Collection timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Davies Collection full metadata in csv",
+            "description": "Complete metadata export for Davies Collection objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Davies Collection full metadata in json",
+            "description": "Complete metadata export for Davies Collection objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}

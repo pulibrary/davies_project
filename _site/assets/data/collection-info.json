@@ -1,0 +1,20 @@
+{ 
+    "title": "Davies Collection",
+    "url": "https://pulibrary.github.io/davies-cb/",
+    "image": "/davies-cb/assets/img/collectionbuilder-logo.png", 
+    "description": "Collection cards and transcribed data",
+    "publisher": { 
+        "name": "Princeton University Library", 
+        "url": "https://library.princeton.edu/", 
+        "logo": "https://library.princeton.edu/sites/all/themes/pul_base/assets/public/images/pul-logo-new.png" 
+    },
+    "date_start": "0",
+    "date_end": "1875",
+    "objects": {
+        "image/jpg": "9809"
+        
+    },
+    "data": "https://pulibrary.github.io/davies-cb/assets/data/datapackage.json",
+    "last_build_date": "2024-01-24"
+}
+
