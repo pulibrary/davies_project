@@ -21,14 +21,6 @@ def identifier_from_image_name(bucket, image_name):
 def iiif_uri(scheme, server, prefix, identifier, region, size, rotation, quality, format):
     return f"{scheme}://{server}/{prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}"
 
-# object_uri = partial(iiif_uri,
-#               scheme="https",
-#               server="puliiif-staging.princeton.edu",
-#               prefix="iiif/2",
-#               region="full",
-#               rotation=0,
-#               quality="default",
-#               format="jpg")
 
 def object_location(image_name, bucket, object_uri):
     return object_uri(identifier=identifier_from_image_name(bucket, image_name),
@@ -45,7 +37,6 @@ def image_thumb(image_name, bucket, object_uri):
 
 
 source_data = "/Users/wulfmanc/princeton/projects/davies_project/data.csv"
-# data_dir = '/Users/wulfmanc/repos/github/pulibrary/davies-cb/_data'
 data_dir = "/tmp"
 
 def convert_data(src_path, dest_path, server, bucket):
@@ -94,10 +85,3 @@ def convert_data(src_path, dest_path, server, bucket):
         writer.writeheader()
         for row in data:
             writer.writerow(row)
-
-# with open(f"{data_dir}/config-browse.csv", mode='w', newline='') as configfile:
-#     writer = DictWriter(configfile, fieldnames=['field', 'display_name', 'btn', 'hidden', 'sort_name'])
-#     writer.writeheader()
-#     writer.writerow({'field': 'subject', 'display_name': 'Subject', 'btn': 'true', 'sort_name': 'Subject'})
-#     writer.writerow({'field': 'location', 'display_name': 'State', 'btn': 'true', 'sort_name': 'State'})
-#     writer.writerow({'field': 'title', 'display_name': 'Name', 'sort_name': 'Name'})
