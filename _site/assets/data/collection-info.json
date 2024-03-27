@@ -1,5 +1,5 @@
 { 
-    "title": "Davies Collection",
+    "title": "American Libraries before 1876",
     "url": "http://localhost:4000/davies/",
     "image": "/davies/assets/img/collectionbuilder-logo.png", 
     "description": "The Davies Project was an effort to increase knowledge about American university libraries and their collections, begun by Princeton University President emeritus and Professor of Economics and Public Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books at the Princeton University Library in 2000.",
@@ -15,6 +15,6 @@
         
     },
     "data": "http://localhost:4000/davies/assets/data/datapackage.json",
-    "last_build_date": "2024-01-24"
+    "last_build_date": "2024-03-27"
 }
 

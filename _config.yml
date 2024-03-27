@@ -18,9 +18,9 @@ source-code: https://github.com/pulibrary/davies_project
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Davies Collection
+title: American Libraries before 1876
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: American Libraries before 1876
+tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "The Davies Project was an effort to increase knowledge about American university libraries and their collections, begun by Princeton University President emeritus and Professor of Economics and Public Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books at the Princeton University Library in 2000."
