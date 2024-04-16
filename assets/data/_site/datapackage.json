@@ -1,0 +1,46 @@
+{
+    "profile": "data-package",
+    "name": "-data",
+    "title": " Data",
+    "description": "Metadata and data derived from . ",
+    
+    "homepage": "http://localhost:4000/",
+    "contributors": [
+        {
+            "title": "",
+            "path": "",
+            "role": "author"
+        }
+    ],
+    "image": "",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+        
+        
+        
+        
+        
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": " full metadata in csv",
+            "description": "Complete metadata export for  objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": " full metadata in json",
+            "description": "Complete metadata export for  objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}

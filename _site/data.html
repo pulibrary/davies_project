@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="/davies/assets/lib/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="/davies/assets/lib/datatables/datatables.min.css"><link rel="stylesheet" href="/davies/assets/css/cb.css" type="text/css">
 
-<!-- Last build date: 2024-03-27 -->
+<!-- Last build date: 2024-04-16 -->
   </head>
   <body class="d-flex flex-column h-100">
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -70,17 +70,11 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/davies/locations.html">States &amp; Localities</a>
                 </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="/davies/map.html">Map</a>
-                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Timelines</a>
                     <div class="dropdown-menu">
                         
                         <a class="dropdown-item " href="/davies/timeline.html">Full Timeline</a>
-                        
-                        <a class="dropdown-item " href="/davies/timelinejs.html">TimelineJS</a>
                         
                     </div>
                 </li>
@@ -157,13 +151,6 @@
                 </div>
                 <div class="card my-3">
                     <div class="card-body">
-                        <h2 class="card-title h4">GeoJSON</h2>
-                        <p class="card-text">Metadata for all collection items that have geographic coordinates in <a href="https://en.wikipedia.org/wiki/GeoJSON" target="_blank" rel="noopener">GeoJSON</a> format, useful for further exploration and analysis of this collection through a geographical lense.</p>
-                        <a href="/davies/assets/data/geodata.json" class="btn btn-outline-dark" target="_blank">Geodata JSON</a>
-                    </div>
-                </div>
-                <div class="card my-3">
-                    <div class="card-body">
                         <h2 class="card-title h4">Timeline</h2>
                         <p class="card-text">A time-focused JSON data export designed for use with <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS</a>.</p>
                         <a href="/davies/assets/data/timelinejs.json" class="btn btn-outline-dark" target="_blank">TimelineJS JSON</a>
@@ -186,8 +173,8 @@
     "@context":"https://schema.org/",
     "@type":"Dataset",
     "name":"American Libraries before 1876 Data",
-    "description":"Metadata and data derived from American Libraries before 1876. The Davies Project was an effort to increase knowledge about American university libraries and their collections, begun by Princeton University President emeritus and Professor of Economics and Public Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books at the Princeton University Library in 2000.",
-    "keywords":  ["libraries"],
+    "description":"Metadata and data derived from American Libraries before 1876. Professor Haynes McMullen compiled a set of punched cards in his decades-long research into American Libraries before 1876. The punched cards have been photographed and their data captured in a data table now being made available at this site.",
+    "keywords":  ["libraries","American libraries","pre-1846"],
     "url":"http://localhost:4000/davies/data.html",
     "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
     "creator": [
@@ -227,19 +214,6 @@
                     "@type":"DataDownload",
                     "encodingFormat":"JSON",
                     "contentUrl":"http://localhost:4000/davies/assets/data/locations.json"
-                }
-            ]      
-        },
-        {
-            "@type": "Dataset",
-            "name": "American Libraries before 1876 geographic metadata",
-            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
-            "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-            "distribution":[
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"JSON",
-                    "contentUrl":"http://localhost:4000/davies/assets/data/geodata.json"
                 }
             ]      
         },
@@ -317,7 +291,7 @@ Alternatively, click the “Download” button at the top right to view the full
         <div class="col-md-7  px-4 mt-2">
 
             <h2 class="h4"><a href="/davies/" class="text-white font-weight-normal">American Libraries before 1876</a></h2>
-            <p class="text-white"><small>The Davies Project was an effort to increase knowledge about American university libraries and their collections, begun by Princeton University President emeritus and Professor of Economics and Public Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books at the Princeton University Library in 2000.</small></p>
+            <p class="text-white"><small>Professor Haynes McMullen compiled a set of punched cards in his decades-long research into American Libraries before 1876. The punched cards have been photographed and their data captured in a data table now being made available at this site.</small></p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
                     <li class="nav-item">
@@ -335,10 +309,6 @@ Alternatively, click the “Download” button at the top right to view the full
                     <li class="nav-item">
                     
                         <a class="nav-link text-light" href="/davies/locations.html">States &amp; Localities</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/davies/map.html">Map</a>
                     </li>
                     <li class="nav-item">
                     

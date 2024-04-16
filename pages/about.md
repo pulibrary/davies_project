@@ -7,7 +7,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+# {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Davies Project" %}
 
@@ -21,10 +21,9 @@ at the Princeton University Library in 2000.
 The project's major accomplishment was a database compiled from the
 punch cards used by Professor Haynes McMullen in his decades-long
 research into American Libraries before 1876.  The contents of this
-database are now being made available to researchers as a data set in
-X; a simple view of this data can be searched and browsed on this
-site.
+database are now being made available for searching and browsing.
+
 
 The Davies Project also compiled an extensive bibliography and a
 collection of transcriptions, as well as a collection documenting the
-history of the Princeton University Library.
+history of the Princeton University Library.  These may be browsed [here](http://libweb2.princeton.edu/rbsc2/libraryhistory/main.html).
