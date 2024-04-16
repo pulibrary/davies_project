@@ -2,8 +2,8 @@
     "profile": "data-package",
     "name": "american-libraries-before-1876-data",
     "title": "American Libraries before 1876 Data",
-    "description": "Metadata and data derived from American Libraries before 1876. The Davies Project was an effort to increase knowledge about American university libraries and their collections, begun by Princeton University President emeritus and Professor of Economics and Public Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books at the Princeton University Library in 2000.",
-    "keywords":  ["libraries"],
+    "description": "Metadata and data derived from American Libraries before 1876. Professor Haynes McMullen compiled a set of punched cards in his decades-long research into American Libraries before 1876. The punched cards have been photographed and their data captured in a data table now being made available at this site.",
+    "keywords":  ["libraries","American libraries","pre-1846"],
     "homepage": "http://localhost:4000/davies/",
     "contributors": [
         {
@@ -68,14 +68,6 @@
             "profile": "data-resource"
         },
         
-        {
-            "name": "geodata-json",
-            "path": "geodata.json",
-            "title": "American Libraries before 1876 geographic metadata",
-            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
-            "format":"json",
-            "profile": "data-resource"
-        },
         
         {
             "name": "timeline-json",
