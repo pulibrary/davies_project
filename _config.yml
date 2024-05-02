@@ -10,7 +10,8 @@
 # site domain, full URL to the production location of your collection
 url: https://pulibrary.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /davies
+# baseurl: /davies
+baseurl:
 # location of code, the full url to your github repository
 source-code: https://github.com/pulibrary/davies_project
 

@@ -4,7 +4,7 @@
     "title": "American Libraries before 1876 Data",
     "description": "Metadata and data derived from American Libraries before 1876. Professor Haynes McMullen compiled a set of punched cards in his decades-long research into American Libraries before 1876. The punched cards have been photographed and their data captured in a data table now being made available at this site.",
     "keywords":  ["libraries","American libraries","pre-1846"],
-    "homepage": "http://localhost:4000/davies/",
+    "homepage": "http://localhost:4000/",
     "contributors": [
         {
             "title": "Princeton University Library",
@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "/davies/assets/img/collectionbuilder-logo.png",
+    "image": "/assets/img/collectionbuilder-logo.png",
     "licenses": [
         {
             "name": "CC0-1.0",
