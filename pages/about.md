@@ -18,7 +18,7 @@ University President emeritus and Professor of Economics and Public
 Affairs Harold T. Shapiro and Stephen Ferguson, Curator of Rare Books
 at the Princeton University Library in 2000.
 
-The project's major accomplishment was a database compiled from the
+The project's major digital accomplishment was a database compiled from the
 punch cards used by Professor Haynes McMullen in his decades-long
 research into American Libraries before 1876.  The contents of this
 database are now being made available for searching and browsing.
