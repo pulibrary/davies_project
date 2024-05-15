@@ -1,7 +1,7 @@
 {% comment %}
     This include creates a modal pop up with data export options.
     The logic of which formats appear is based on config-nav stubs:
-    if subject.html, map.html, location.html, or timeline.html are present, 
+    if subject.html, map.html, location.html, or timeline.html are present,
     corresponding data formats will be available for download.
 {%- endcomment -%}
 
@@ -18,7 +18,7 @@
             <div class="modal-body">
 
                 <p>Download this collection's data in a variety of reusable formats.</p>
-                
+
                 {% if site.data.theme.metadata-export-fields %}
                 <div class="card my-3">
                     <div class="card-body">
@@ -29,53 +29,7 @@
                     </div>
                 </div>
                 {%- endif -%}
-                {% if site.data.theme.metadata-facets-fields %}
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">Metadata Facets</h2>
-                        <p class="card-text">List of unique values and their count for specific metadata fields, useful for understanding content of the fields.</p>
-                        <a href="{{ '/assets/data/facets.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Facets JSON</a>
-                    </div>
-                </div>
-                {%- endif -%}
-                {% if stubs contains "subject" %}
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">Subject Metadata</h2>
-                        <p class="card-text">Unique values and counts of subject metadata, useful for further analyzing the content of this collection.</p>
-                        <a href="{{ '/assets/data/subjects.csv' | relative_url }}" class="btn btn-outline-dark" target="_blank">Subjects CSV</a>
-                        <a href="{{ '/assets/data/subjects.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Subjects JSON</a>
-                    </div>
-                </div>
-                {% endif %}
-                {% if stubs contains "location" %}
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">Locations</h2>
-                        <p class="card-text">Unique values and counts of location metadata, useful for further visualization and analysis of this collection's place names.</p>
-                        <a href="{{ '/assets/data/locations.csv' | relative_url }}" class="btn btn-outline-dark" target="_blank">Locations CSV</a>
-                        <a href="{{ '/assets/data/locations.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Locations JSON</a>
-                    </div>
-                </div>
-                {%- endif -%}
-                {% if stubs contains "map" %}
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">GeoJSON</h2>
-                        <p class="card-text">Metadata for all collection items that have geographic coordinates in <a href="https://en.wikipedia.org/wiki/GeoJSON" target="_blank" rel="noopener">GeoJSON</a> format, useful for further exploration and analysis of this collection through a geographical lense.</p>
-                        <a href="{{ '/assets/data/geodata.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Geodata JSON</a>
-                    </div>
-                </div>
-                {%- endif -%}
-                {% if stubs contains "timeline" %}
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">Timeline</h2>
-                        <p class="card-text">A time-focused JSON data export designed for use with <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS</a>.</p>
-                        <a href="{{ '/assets/data/timelinejs.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">TimelineJS JSON</a>
-                    </div>
-                </div>
-                {%- endif -%}
+
                 <div class="card my-3">
                     <div class="card-body">
                         <h2 class="card-title h4">Website Source Code</h2>
@@ -118,7 +72,7 @@
                     "encodingFormat":"JSON",
                     "contentUrl":"{{ '/assets/data/facets.json' | absolute_url }}"
                 }
-            ]      
+            ]
         },
         {%- endif -%}
         {% if stubs contains "subject" %}
@@ -138,7 +92,7 @@
                     "encodingFormat":"JSON",
                     "contentUrl":"{{ '/assets/data/subjects.json' | absolute_url }}"
                 }
-            ]      
+            ]
         },
         {%- endif -%}
         {% if stubs contains "location" %}
@@ -158,7 +112,7 @@
                     "encodingFormat":"JSON",
                     "contentUrl":"{{ '/assets/data/locations.json' | absolute_url }}"
                 }
-            ]      
+            ]
         },
         {%- endif -%}
         {% if stubs contains "map" %}
@@ -173,7 +127,7 @@
                     "encodingFormat":"JSON",
                     "contentUrl":"{{ '/assets/data/geodata.json' | absolute_url }}"
                 }
-            ]      
+            ]
         },
         {%- endif -%}
         {% if stubs contains "timeline" %}
@@ -188,7 +142,7 @@
                     "encodingFormat":"JSON",
                     "contentUrl":"{{ '/assets/data/timelinejs.json' | absolute_url }}"
                 }
-            ]      
+            ]
         },
         {%- endif -%}
         {
