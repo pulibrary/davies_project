@@ -1,6 +1,6 @@
 ---
 # Lunr search page
-layout: page 
+layout: page
 custom-foot: js/lunr-js.html
 ---
 {%- assign fields = site.data.config-search | where: 'index',true | map: 'field' -%}
@@ -11,16 +11,19 @@ custom-foot: js/lunr-js.html
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="modalLabel">Lunr Search Options</h5>
+                <h5 class="modal-title" id="modalLabel">Advanced Search Options</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <p>These advanced options can be added to your query in the search box to refine your results:</p> 
+                <p>These options can be added to your query in the search box to refine your results:</p>
                 <ul>
-                    <li>Search a specific field: use the field name, colon, then your query, e.g. <code>title:foo</code>, <code>date:1911</code>, <code>subject:tree</code>. In this collection you can use {{ fields | join: ", " }}.</li>
-                    <li>Wildcards: add <code>*</code> to match any character(s), e.g. <code>foo*</code>, <code>*oo</code>. This is helpful for using a root to find words with all related endings.</li>
-                    <li>Fuzzy match: add <code>~</code> plus a number at the end of your query to specify a higher level of fuzziness in search, e.g. <code>foo~1</code>. This can help with misspellings.</li>
-                    <li>Boost term: add <code>^</code> plus a number to boost the relevance of a term in your query, e.g. <code>foo^10</code>. This can help reduce clutter of unrelated results if one of your terms is most important.</li>
+                    <li>Search only within the Name field: e.g., <code>Name:Yale</code> to find every library with the word <i>Yale</i> in its name.</li>
+
+                    <li>Search only within the Locality field: e.g., <code>Locality:Princeton</code> to find every library located in Princeton.
+
+                    <li>Wildcards: add <code>*</code> to match any character(s), e.g. <code>Clio*</code>. This is helpful for using a root to find words with all related endings.</li>
+                    <li>Fuzzy match: add <code>~</code> plus a number at the end of your query to specify a higher level of fuzziness in search, e.g. <code>Locality:Williams~1</code>. This can help with misspellings.</li>
+                    <li>Boost term: add <code>^</code> plus a number to boost the relevance of a term in your query, e.g. <code>society^10</code>. This can help reduce clutter of unrelated results if one of your terms is most important.</li>
                 </ul>
             </div>
         </div>
@@ -38,7 +41,7 @@ custom-foot: js/lunr-js.html
             </button>
         </div>
     </form>
-    
+
     <table id="lunrResults" class="table table-responsive"></table>
 </div>
 
