@@ -1,12 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
+PLUS,PLUS,,,,
 McMullen,McMullen Number,,,,
+State,State,,,,spatial
+Locality,Locality,,,,spatial
 Name,Name,,,DCTERMS.title,headline
-State,State,,,,
-Locality,Locality,,,,
+Type,Type,,,DCTERMS.type,
 Found_Date,Founding Date,,,DCTERMS.date,dateCreated
-Cess_Date,Cessation Date,,,DCTERMS.date,dateCreated
 First_Ref,First Reference,,,DCTERMS.date,dateCreated
 Latest_Ref,Latest Reference,,,DCTERMS.date,dateCreated
+Cess_Date,Cessation Date,,,DCTERMS.date,dateCreated
 ED_for_Size,Earliest Date for Size,,,DCTERMS.date,dateCreated
 Size_at_ED,Size at Earliest Date,,,,
 Size_at_LD,Size at Latest Date,,,,
