@@ -1,7 +1,15 @@
 field,display_name
 Name,Name
+PLUS, PLUS
+McMullen,McMullen
 State,State
 Locality,Locality
 Type,Type
 Found_Date,Found_Date
+First_Ref,First_Ref
+Latest_Ref,Latest_Ref
 Cess_Date,Cess_Date
+ED_for_Size,ED_for_Size
+Size_at_ED,Size_at_ED
+LD_for_Size,LD_for_Size
+Size_at_LD,Size_at_LD
