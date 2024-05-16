@@ -1,0 +1,1465 @@
+---
+title: Blog
+layout: default
+permalink: /blog.html
+---
+## Blog
+The Davies Project maintained a blog, or comment-board, between 2004 and 2019. Below
+are the entries extracted from this resource.
+
+### Entries
+
+<html>
+    <head>
+        <title>blog entries</title>
+    </head>
+    <body>
+        <div class="comment">
+            <div class="header">On 2019-10-22 13:19:51 <a href="mailto:barbara.glauber@gmail.com"
+                    >glauber</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Protestant Episcopal Society for Advancement of
+                    Christianity<br/><b>Location: </b>Charleston, SC<br/><br/>I am researching
+                black literacy for an exhibition of Dave Drake's pottery for the Metropolitan Museum
+                of Art. I am wondering when the Library accessioned Frederick Douglass's
+                autobiography and Dave Walker's appeal.<br/><br/>With thanks,<br/>Barbara
+                Glauber</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2019-10-22 13:16:11 <a href="mailto:barbara.glauber@gmail.com"
+                    >glauber</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Samuel Gifford's Circulating
+                    Library<br/><b>Location: </b>Charleston, SC<br/><br/>I am researching black
+                literacy for an exhibtion of the pottery of Dave Drake for the Metropolitan Museum
+                of Art. I am wondering when the library accessioned Frederick Douglass's
+                autobiography and Dave Walker's Appeal.<br/><br/><br/>with thanks,<br/>Barbara
+                Glauber</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2019-10-22 13:13:58 <a href="mailto:barbara.glauber@gmail.com"
+                    >glauber</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Franklin Library Society<br/><b>Location:
+                </b>Charleston, SC<br/><br/>I am researching slave literacy for an exhibition of
+                Dave Drake's pottery for the Metropolitan Museum. I am wondering when the library
+                accessioned Frederick Douglass autobiography and Dave Walker's
+                Appeal.<br/><br/>With thanks,<br/>Barbara Glauber</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2019-10-22 11:54:52 <a href="mailto:barbara.glauber@gmail.com"
+                    >glauber</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>YMCA<br/><b>Location: </b>Columbia,
+                SC<br/><br/>I am researching slave literacy for an exhibition at the Metropolitan
+                Museum of Art. I would like to know when the library accessioned Frederick
+                Douglass's autobiography and Dave Walker's appeal?<br/><br/>my
+                thanks,<br/>Barbara Glauber</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2019-10-22 11:45:49 <a href="mailto:barbara.glauber@gmail.com"
+                    >glauber</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Columbia Library Society<br/><b>Location:
+                </b>Columbia, SC<br/><br/>I am wondering when the Library accessioned Frederick
+                Douglass's autobiography and Dave Walker's appeal.I am researching literacy among
+                slaves for an exhibition of Dave Drake's pottery for the Metropolitan Museum of
+                Art.<br/><br/>My thanks,<br/>Barbara Glauber</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2019-10-22 11:26:12 <a href="mailto:barbara.glauber@gmail.com"
+                    >glauber</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Female Library Soc.<br/><b>Location:
+                </b>Edgefield, SC<br/><br/>When did the library accession Frederick Douglass's
+                autobiography and wondering when the library acquired Dave Walker's Appeal? My
+                thanks,<br/>Barbara Glauber</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2019-07-08 09:23:59 <a href="mailto:jgreen@librarycompany.org"
+                    >Jim Green</a> wrote:</div>
+            <div class="body"><b>Library Name: </b> Library Co. of Phila. &amp; Loganian
+                    Library<br/><b>Location: </b> Philadelphia, PA<br/><br/>shouldn't the
+                Loganian Library have its own entry?</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2017-12-08 14:16:12 <a href="mailto:mgoddard@calbaptist.edu"
+                    >Matthew Goddard</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Episcopal Church<br/><b>Location:
+                </b>Sarcamento, CA<br/><br/>"Sarcamento" is misspelled</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2015-07-07 11:24:12 <a href="mailto:stiffstu@gmail.com">Stuart
+                    Stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Warren Library Association<br/><b>Location:
+                </b>Trumbull County, Ohio<br/><br/> Extent to which local elite assumed support of
+                early social libraries? Of the seventy members of the Warren Library Association's
+                outstanding shares, 1856, descendents of the prominent Perkins family invested $480
+                of $945. 15% of the subscribers had contributed three-fourths of the $945. Charles
+                and William Smith contributed $75. Census data on estates of Smiths? See Western
+                Reserve Chronicle March 18, 1857.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2011-10-27 10:10:46 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>John Dabney's Circulating
+                    Library<br/><b>Location: </b>Salem, MA<br/><br/>Image of bookplate for this
+                circulating library and other details
+                at<br/>http://libraryhistorybuff.blogspot.com/2011/10/dabneys-circulating-library-salem-ma.html</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2011-06-01 23:02:54 <a href="mailto:jrenjilian@hotmail.com">John
+                    Renjilian</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Library Association of St
+                    Joseph<br/><b>Location: </b>St Joseph, MO<br/><br/>The name of the newspaper
+                reporting on the Library Association of St Joseph, MO, was apparently deleted in
+                transmission; The paper was the St Joseph Weekly Herald.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2011-06-01 22:55:48 <a href="mailto:jrenjilian@hotmail.com">John
+                    Renjilian</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Library Association of St
+                    Joseph<br/><b>Location: </b>St Joseph, MO<br/><br/>The St. Joseph, MO, weekly
+                herald of 7 June 1866 (no page number) contains the report of the Board of Directors
+                of the Library Association of St. Joseph. Formed 1 May 1865 as the Ladies Library
+                Association, by 11 May it merged with the Mercantile Library Association under the
+                above name. With two recent large additions, "the number of volumes now upon our
+                shelves is about 1500. . . . Our catalogue comprises the best selection of standard
+                works, embracing History, Biography, Poetry, Philosophy, Belle Lettres, Fiction,
+                &amp;c." The librarian reported "our rooms have been constantly [in italics] visited
+                by at least one hundred persons during the past year, and that the number of volumes
+                read by each would average 25, making a total of 25,000 furnished by the Library. .
+                . . The entire list of members during the past year comprised only one hundred and
+                forty-nine persons." The library had "recently moved" to a "splendid and capacious
+                Hall above the State Bank, on the corner of Fourth and Felix streets. . . .
+                [H}ereafter it will be known as Library Hall." Lectures by John G Saxe and Bayard
+                Taylor were sponsored by the library in 1865, "though the financial results were not
+                the most satisfactory to us." Fundraising efforts (three "Festivals" and a
+                "Concert") outside of membership fees totaled $1,069.45, and the "greater portion of
+                these funds has been devoted to the purchase of books." The report is signed by L M
+                Lawson, President; newly elected officers include C B Wilkinson, Pres; L M Lawson,
+                VP; Mrs W Jones, 2nd VP; S S McGibbons, Treas; Rev R H Weller, Secre; and directors
+                Mrs S S McGibbons, Mrs Jourdan, Mrs Townsend, Washington Jones, J A Walsworth, and C
+                B Norris.<br/><br/>Two articles, totaling approximately 11 column
+                inches.weekly</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2011-01-21 17:07:55 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>"Coonskin Library"<br/><b>Location:
+                </b>Amesville, OH<br/><br/>Website for the Coonskin
+                Library<br/>See<br/>http://oak.cats.ohiou.edu/~deanr/coonskin.html</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-12-06 13:46:15 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>New York Society Library<br/><b>Location:
+                </b>New York, NY<br/><br/>Now online --
+                See<br/><br/>http://www.nysoclib.org/ledger/index.html<br/><br/>The New York
+                Society Library's earliest surviving charging ledger, which records borrowing
+                activity during the period between July 1789 and April 1792.<br/><br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-11-12 19:39:43 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Soldiers Free Library<br/><b>Location:
+                </b>Washington, DC<br/><br/>The Soldiers Free Library was founded on October 15,
+                1862 in Washington, D.C. by Elida Rumsey (1841-1919) and her future husband John
+                Allen Fowle. The library opened with 1,500 books and 800 magazines. Both Rumsey and
+                Fowle were actively involved in relief work for Union soldiers in the Washington,
+                D.C. area. .....<br/>More
+                at<br/>http://libraryhistorybuff.blogspot.com/2010/11/soldiers-free-library.html</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-08-27 21:23:03 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Painesville Library Aociation
+                    Library<br/><b>Location: </b>Painesville, Lake Co., Ohio<br/><br/> Had 25
+                periodical subscriptions in Spring of 1844; offered books for auction<br/> in late
+                1844.<br/> Painesville Telegraph, Feb. 18, 1841; May 5, 1841; March 1, 1841.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-08-27 21:14:46 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Painesville public library<br/><b>Location:
+                </b>painesville lake co, ohio<br/><br/>A social library; apparently operated less
+                than a year when books were sold at auction" <br/> Painesville Telegraph Sept. 1,
+                1824</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-08-27 21:05:02 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Nelson Library Company<br/><b>Location:
+                </b>Nelson, Portage County, Ohio<br/><br/> In re founding date:1829----library was
+                established
+                "probaBLY<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> IN
+                RE FOUNDING DATE: 1829----library was organized "probably as early as 1820"<br/> H
+                T. Upton, History of the Western Reserve,
+                693.<br/><br/><br/><br/><br/><br/><br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-08-27 20:49:50 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Orangeville Library<br/><b>Location:
+                </b>Orangeville, Trumbull Co, Ohio<br/><br/>"...a library was started by Elam
+                Jones who brought a few books from Connecticut in 1805 and serve<br/> some years as
+                librarian"<br/> H.Z. Williams and Bros. Trumbull and Mahoning County Ohio
+                (Cleveland, 1882), II, 272.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-04-27 20:43:22 <a href="mailto:rob.ostrander@gmail.com">Rob
+                    Ostrander</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Samuel London's Circulating
+                    Library<br/><b>Location: </b>New York, NY<br/><br/>The unisort card which is
+                attached to this record confirms Jim Green's observation: Loudon not London. </div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-04-20 10:36:10 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Dartmouth College - Social Friends
+                    Library<br/><b>Location: </b>Hanover, NH<br/><br/>See report on 1829 letter
+                from a student member of the Society, at the following
+                URL:<br/><br/>http://libraryhistorybuff.blogspot.com/2010/04/revisiting-dartmouths-social-friends.html</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-03-28 20:10:51 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Paris and Woodstock Library<br/><b>Location:
+                </b>Paris, Maine<br/><br/>Paris and Woodstock (Maine) Library. Articles of
+                Association, 1845. <br/><br/>In the mss collections of the American Antiquarian
+                Society (Worcester, MA) "... is an interesting example of the spontaneous rise of
+                library associations in the period before the arrival of the public library. The
+                incorporators of the Paris and Woodstock stated that the library's objects were to
+                be "Historical information, religious instruction, and the advancement of the laws
+                of CHRIST." Membership (50 cents for a share) was open to both men and women
+                although the seven incorporators were all men. <br/>[per] Thomas Knoles, American
+                Antiquarian Society<br/><br/>Image of first page of articles of
+                association:<br/>http://www.americanantiquarian.org/images/adopt/2010/tk/4P8V9170.jpg<br/><br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2010-03-01 22:58:11 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Ann Arbor Circulating Library<br/><b>Location:
+                </b>Ann Arbor, MI<br/><br/>Label pictured
+                at<br/>http://www.flickr.com/photos/70251312@N00/1539694614/<br/>reading:<br/>GEO.
+                CORSELIUS'<br/>CIRCULATING LIBRARY.<br/>This volume may be kept ____ days. ____
+                <br/>cents will be charged for each additional day.<br/>Soiling, tearing, or
+                breaking books is a spe-<br/>cies of Vandalism entirely without excuse. A<br/>fine
+                of from six to fifty cents will be taxed for<br/>every such outrage committed on
+                this volume.<br/><br/>Label dated to the 1830s</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-11-25 13:37:28 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Theological Institute<br/><b>Location: </b>East
+                Windsor, CT<br/><br/>Official name of this seminary was 'Theological Institute of
+                Connecticut'. This is the name which is embossed or blindstamped on books owned by
+                the seminary. Founded 1833, moved to Hartford in 1865, renamed in 1884 'Hartford
+                Theological Seminary.' HTS library purchased by Emory in 1975.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-11-11 17:13:20 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>French and English Circulating Library and
+                Dramatic Repository<br/><b>Location: </b>Philadelphia , PA<br/><br/>Advert. on
+                page 4 of Marcg 28, 1835, Gentleman's Vade Mecum, or the Sporting and Dramatic
+                Companion (Philadelphia). Address: No. 16 South Sixteenth Street.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-10-23 11:37:11 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Hallowell Circulating Library<br/><b>Location:
+                </b>Hallowell, ME<br/><br/><br/><br/><br/>See specimen of <br/>Glazier,
+                Masters Circulating Library Jacket. <br/>Hallowell, Maine: October, 1828. <br/>at
+                the following
+                URL<br/>http://nineteenthcenturydustjackets.com/gallery/index.php?showimage=240</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-04-16 11:12:12 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Newburg Social Library Society<br/><b>Location:
+                </b>Newburg, Cuyahoga County, Ohio<br/><br/>Newburg Social Library Society, 1830
+                should probably be Newbury Library Company, 1830, Geauga County, Ohio; Newburg
+                Library Society, 1827 should remain.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-03-31 11:02:12 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Apprentices' Library Assoc.<br/><b>Location:
+                </b>Brooklyn, NY<br/><br/>Posted on SHARP-L // 31 March 2009<br/><br/>Another
+                early reading room of note was established by the Brooklyn Apprentices' Library
+                Association founded in 1823. Follow this link for more information on the Library
+                and related stories about its
+                development:<br/><br/>http://www.brooklynmuseum.org/features/whitman/early-years.php<br/><br/>Deirdre
+                E. Lawrence<br/>Principal Librarian<br/>Brooklyn Museum <br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-03-18 11:50:40 <a href="mailto:ferguson@princeton.edu">Steve
+                    Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Brown University - United Brothers
+                    Society<br/><b>Location: </b>Providence, RI<br/><br/>Copies of books once in
+                this library are at both Brown and Princeton. To find them, search the phrase
+                "United Brothers Library" in the main catalogs of these univ. libraries.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-11 16:44:45 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Olmsted Library Co.<br/><b>Location:
+                </b>Olmsted, OH<br/><br/>In 1823 (or 1826?) charles Hyde Olmstead offered to
+                donate 500 of his father's bvooks in Oxford Connecticut to the residents of Lenox,
+                Ohio...The books traveled by Oxcart over 600 miles of rugged terain...About 150 of
+                the original books an be found in a display in the North Olmstead Branch Library.
+                The community agreed to change the name of the town to "Olmstead" in his honor.
+                <br/><br/>Founded in 1823 (or 1826?),Size at founding 500 volumes, some lost or
+                damaged in 600 mile transit from Oxford Conn. Known as the Oxcart Library. About 125
+                volumes of the original library on display at the North Olmsted Branch of the
+                <br/>Cuyahoga Public Library at North Olmsted Ohio. Details at
+                Http://www.ohiohistorycentral.org/; http://en.wikipedia.org/wiki/Ox-cartLibrary
+                andhttp://www.cuyahoga.lib.oh.us/<br/><br/><br/><br/><br/>
+            </div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-07 16:43:18 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Jefferson Library Company<br/><b>Location:
+                </b>Jefferson, Ohio<br/><br/>Founding date: 1817; From the founding document:
+                "Education and general knowledge of historical events is beneficial to mankind...for
+                turning down a leaf in a book belonging to the library the fine for such leaf turned
+                or folded shall be three cents...Provided also that the fine for lending a book to
+                one that is not a proprietor shall be half the value of said book..The books to be
+                purchased for the library shall be at least two-thirds historical...Novels---profane
+                or obscene books shall not be admitted....This document is in the Henderson Memorial
+                Public Library, Jefferson, Ashtabula County, Ohio. Also Ashatabula Genealogical
+                Society, History of Ashtabula County, Ohio, 1985, 91.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-07 12:03:31 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>warren Library Association<br/><b>Location:
+                </b>Warren, Ohio<br/><br/>Founding Date: 1848; Cessation date: 1854; L D. Size:
+                1854: 2000 vols. (sold at auction). In 1848 Jacob Perkins and others started the
+                Warren Library AssociaTION. The books of the earlier library [Porter and Ide's
+                Circulating Library] were transferred to the Asociation and a reading room was
+                opened. George Van Gorde was librarian for about three years. It was supported by
+                private subscription and "entertainments", mostly lecture programs. Later the
+                reading room was closed and the library was moved to the office of M. O. Leggett. It
+                was open Tuesday, Thursday and Saturday. Stockholders were charged $.50 a year;
+                non-stockholders, $1 per year. Stiffler, Antecedents. 23.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-07 11:48:52 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Porter and Ide's Circulating
+                    Library<br/><b>Location: </b>Warren, Ohio<br/><br/>Founding Date: about 1843;
+                Cessation date: 1847; "Wheat, corn, hay, oats, butter, fallow, and most kinds of
+                produce will be received for subscription to Porter and Ide's circulating library"
+                Western Reserve Chronicle, Dec. 12, 1842, quoted in H. T. Upton, History of the
+                Western Reserve, 202; Stiffler, Antecedents, 22-23.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:53:55 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Mechanics Association In Akron<br/><b>Location:
+                </b>Akron, Ohio<br/><br/>Founding Date: 1846; Size at Founding: 250 Cessation
+                date: 1858; Also, Akron High School Library (Public), Founding date: 1853; Akron
+                Lecture Association, Founding date: 1865; Akron Library Association, Founding date,
+                1866: Free Public Library of Akron, Founding date: 1874. See Stiffler,
+                Antecedents...(2007).( These may be in database but I couldn't find them.0 </div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:33:45 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Sandusky City Lyceum<br/><b>Location:
+                </b>Sandusky, Ohio<br/><br/>Foundingdate: 1837; Cessation date: 1842; Size: 1842?,
+                300 vols.<br/> Also: Philomathesian Society, Founding date: 1842; Cessation date:
+                1855; Size at founding: 72; Young Mens Literary Association,Founding date: 1855:
+                Size at Founding: 72 See Stiffler, Antecedents...(2007)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:24:34 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Jefferson "Public Library"<br/><b>Location:
+                </b>Jefferson, Ohio<br/><br/>original founding date: 1817 See Stiffler,
+                Antecedents...: OAHQ, Vol 27(1918)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:19:56 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Bedford Library Company<br/><b>Location:
+                </b>Bedford, Ohio<br/><br/>(Re)founding Date; 1848; Last date size: 43 See
+                Stiffler, Antecedents...(2007)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:16:50 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Hudson Public Library<br/><b>Location:
+                </b>Hudson, Ohio<br/><br/>Cessation Date shoud be: 1826, not 1820. See Stiffler,
+                Antecedents...(2007)<br/><br/><br/><br/><br/><br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:12:54 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Wadsworth Farmers Library<br/><b>Location:
+                </b>Wadsworth, Ohio<br/><br/>Founding Date: 1823; See Stiffler, Antecedents...:
+                OAHQ, Vol 27, 1918.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 10:09:07 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Chardon Public Library<br/><b>Location:
+                </b>Chardon, Ohio<br/><br/>Founding Date: 1848; Cessation Date: 1858 See Stiffler,
+                Antecedents...;OAHQ, v. 27 (1918).</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2009-01-01 09:50:47 <a href="mailto:stustiff@verizon.net">stuart
+                    stiffler</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Mentor Library Company<br/><b>Location:
+                </b>Mentor, Ohio<br/><br/>Founded 1819 collection size, 1859: 79 Collection size,
+                1860: 194 See Stuart Stiffler, Antecedents of the Public Library in the Western
+                Reserve, 1800-1860; An Addendum (2007); Ohio Archaeological and Historical Review
+                Vol 27 (1918) Appendices A and B.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2008-08-25 08:27:09 <a href="mailto:rajendra.kancherla@gmail.com"
+                    >rajendra</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Whitpain Twp. Library<br/><b>Location: </b>hyd,
+                andhrapradesh<br/><br/>it</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2008-08-25 08:25:16 <a href="mailto:rajendra.kancherla@gmail.com"
+                    >rajendra</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>neousys<br/><b>Location: </b>hyd,
+                andhrapradesh<br/><br/>i want know about IT</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2008-04-29 20:58:06 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Whitpain Twp. Library<br/><b>Location:
+                </b>Whitpain, PA<br/><br/> Copy of the _Act of incorporation, bye-laws, and
+                catalogue of books, of the Whitpain Library Company_ is available at the Beinecke
+                Library, according to their Uncatalogued Acquisitions Database as of 29 April
+                2008.<br/> Accession Number<br/> 10005<br/> Date Entered<br/> 20 Aug 2007<br/>
+                Call Number<br/> TSIP<br/> Author<br/> Whitpain Library Company<br/> Title<br/>
+                Act of incorporation, bye-laws, and catalogue of books, of the Whitpain Library
+                Company.<br/> Place<br/> Norristown<br/> Publisher<br/> Printed by D. Sower,
+                Jr.<br/> Date<br/> 1826<br/> Physical Description<br/> 1 v.<br/>
+                Department<br/> UNKNOWN</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2008-04-19 09:28:20 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Second Social Library<br/><b>Location:
+                </b>Standish, ME<br/><br/>At the American Antiquarian Society is now
+                available:<br/><br/>Second Social Library, Standish Maine. Records,
+                1832-1841.<br/><br/>This volume contains the constitution and records of meetings
+                of the Second Social Library, founded as noted in the constitution by people living
+                at some distance from the village center. The constitution begins thus: "We the
+                Subscribers, inhabitants of the town of Standish anxious to acquire a knowledge of
+                past time as well as passing events and believing that a good portion of our time
+                and that of our Children may be well imployed in reading and living remote from the
+                Central Vilage in this town but in the Vicinity of each other and believeing it to
+                be highly important in a republicon government where each one is Caled upon to
+                perform his part in the government either in the discharge of his duties of his
+                office or by his vote and for him to do it with Clearness of mind and soundness of
+                judgment it is necessary for him to have some knowledge of the history of his Cuntry
+                and we further believe that ignorance is degrading that it is the nursery of Vice
+                and despotism and that it is in a great measure by her that tyrants and superstition
+                reign and we also believe that that the situation of our country our selves and our
+                children call upon us for such an institution. Therefore we have united and hereby
+                unite to form ourselves in a Society or body politic for the purpose of holding and
+                preserving a library under the following rules." The volume also includes a record
+                of the sale of the library books at auction in 1841.<br/>[This text by Thomas
+                Knoles of AAS and published in the 2008 AAS Adopt-a-Book catalogue as number
+                53.]</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2007-08-28 16:50:33 <a
+                    href="mailto:clynell.hibbs@edmondschools.net">Clynell Hibbs</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Santa Fe High School<br/><b>Location:
+                </b>Edmond, OK<br/><br/>Santa Fe High School's collection of 20,000 books
+                represents a current and diverse collection responsive to the recreational reading
+                and research needs of 2,000 high school students. The collection addresses both the
+                research needs of Advanced Placement and Credit Recovery classes.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2007-05-24 13:57:19 <a href="mailto:bbonoussmit@qcc.cuny.edu "
+                    >Dr. Barbara Bonous-Smit</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>American Numismatic Society
+                    Library<br/><b>Location: </b>96 Fulton St., NY<br/><br/>Old address; 155th
+                Street &amp; Broadway, NY, NY<br/><br/>I'm completing an article on the American
+                Numismatic Society (ANS) library and librarians for "Library History." I can send
+                some information about the library to you. I worked there as their cataloger between
+                2000-2004. Here is some basic information about the ANS Library:<br/><br/>The
+                American Numismatic Society Library (ANS)was organized in 1858 by one of its
+                founders, James D. Foskett, to foster academic scholarship in numismatics (coins,
+                medals, and related objects). Foskett served as ANS Librarian between November 3,
+                1858 to March 11, 1864. Other Librarians between 1850-1876 included: ANS founder,
+                Edward Groh (1837-1925), from March 11, 1864 to February 9, 1865); Frank Leathe,
+                from February 9, 1865 to March 22, 1866); Daniel Parish, Jr. (1842-1914), from March
+                22, 1866 to March 25, 1869); and Dr. Isaac F. Wood (1841-1895), from March 25, 1869
+                to March 16, 1880).</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2007-04-30 11:55:26 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Lexington Athenaeum<br/><b>Location:
+                </b>Lexington, KY<br/><br/>Frank Leslie Combs, of Lexington, wrote to William
+                Smith Shaw of the Boston Athenaeum on June 13, 1817, stting that an athenaeum had
+                just been established and asking Shaw to send the books he had promised if an
+                athenaeum were established; see Joseph B. Felt, Memorials of William Smith Shaw
+                (Boston, 1852), 313-14.<br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2007-04-30 11:46:04 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Athenaeum<br/><b>Location: </b>New York,
+                NY<br/><br/>The New York Athenaeum opened on Dec. 13, 1824; see Austin Keep,
+                History of the New York Society Librray (1908), 324.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2007-02-17 07:03:46 <a href="mailto:abdol@yahoo">Abdol</a>
+                wrote:</div>
+            <div class="body"><b>Library Name: </b>Apprentices<br/><b>Location: </b>Albany,
+                NY<br/><br/>letriture</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2007-02-17 07:01:41 <a href="mailto:abdol@yahoo">Abdol</a>
+                wrote:</div>
+            <div class="body"><b>Library Name: </b>Apprentices<br/><b>Location: </b>Albany,
+                NY<br/><br/>litrary</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-12-10 12:13:48 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Cone Library and Reading Room <br/><b>Location:
+                </b>Great Barrington, MA<br/><br/>The Cone Library and Reading Room was founded in
+                1869 by Henry D. Cone, a prosperous papermaker with a huge mill on the nearby
+                Housatonic River. The bookplate of the Library reproduces Cone's handwritten
+                statement that the library was founded for his employees but would be open to all.
+                See also C.Taylor, History of Great Barrington (1882), p. 423. "maintained and
+                constantly supplied with new books by Mr. and Mrs. Cone."
+                [http://books.google.com/books?vid=OCLC01683358]. See also listing in the 1875
+                Census of Massachusetts (Vol. 1, Population and Social Statistics) which gives a
+                county by county listing of libraries in the Commonwealth, including sunday school
+                libraries. [http://books.google.com/books?vid=OCLC01071898]</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-12-03 00:49:12 <a href="mailto:babyjoy7599@yahoo.com">tammy
+                    burris</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>State Library<br/><b>Location: </b>Annapolis,
+                MD<br/><br/>any information on 1800s printer john d toy and 1800s publisher
+                pheonix wood i have a undated bible with the above printer and publisher it is the
+                frederic codman family bible thank you so much i have been searching for over 2
+                years</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-10-05 16:46:14 <a href="mailto:mmaier@hillsdale-library.org"
+                    >Mark Maier</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Ladies Library Association<br/><b>Location:
+                </b>Hillsdale, MI<br/><br/>The date is actually 1879, not 1876.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-10-05 14:29:24 <a href="mailto:mmaier@hillsdale-library.org"
+                    >Mark Maier</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Ladies Library Association<br/><b>Location:
+                </b>Hillsdale, MI<br/><br/>1876</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-06-09 15:48:55 <a href="mailto:duaneqqq@earthlink.net"
+                    >SMITH</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Seventies Library<br/><b>Location: </b>Nauvoo,
+                IL<br/><br/>newspaper stories 1844</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-02-05 23:26:17 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Social Library<br/><b>Location: </b>Bridgeport,
+                CT<br/><br/>The Bridgeport entry now points to the correct data card</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-02-01 18:09:19 <a
+                    href="mailto:mgolrick@bridgeportpubliclibrary.org">Michael Golrick</a>
+                wrote:</div>
+            <div class="body"><b>Library Name: </b>Social Library<br/><b>Location: </b>Bridgeport,
+                CT<br/><br/>Card pictured says Bozrah, not Bridgeport.<br/><br/>Michael A.
+                Golrick mgolrick@bridgeportpubliclibrary.org<br/>City Librarian
+                http://www.bridgeportpubliclibrary.org<br/>Bridgeport Public Library 203/576.7777
+                (office)<br/>925 Broad Street 203/333.0253 (fax)<br/>Bridgeport CT
+                06604-4871</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-01-31 16:04:27 <a href="mailto:donnadm@gw.doa.state.ri.us"
+                    >Donna DiMichele</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Redwood Library and Athenaeum<br/><b>Location:
+                </b>Newport, RI<br/><br/>This library has been beautifully renovated. I recommend
+                visiting it if you travel to Newport, Rhode Island.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-01-28 01:02:41 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Social Library<br/><b>Location: </b>Epsom,
+                NH<br/><br/>Transcription of the <br/>EPSOM Social Library / RULES AND
+                REGULATIONS OF THE Epsom Social Library, Adopted March 14, 1801.<br/>can be found
+                at<br/>http://www.usgennet.org/usa/nh/town/epsom/history/social.htm</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2006-01-28 00:53:12 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Second Social Library<br/><b>Location:
+                </b>Deerfield, MA<br/><br/>Scan of the catalogue for this library at <a
+                    href="http://draft.memorialhall.mass.edu/collection/itempage.jsp?itemid=5751&amp;img=0&amp;level=beginner&amp;transcription=0"
+                ></a></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-10-02 23:06:06 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Saratoga Springs Reading Room<br/><b>Location:
+                </b>Saratoga Springs, NY<br/><br/>This reading room was established by Gideon
+                Minor Davison and was attached to Saratoga's newest hotel at the time, the
+                Pavilion.<br/>For details see page 53 and 69 (note 8) in Richard Gassan, "The First
+                American Guide Books" in BOOK HISTORY v. 8 (2005).<br/>Davison also operated a
+                circulating library (cf McMullen 95263)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-07-17 22:24:25 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Scituate Library Company<br/><b>Location:
+                </b>Scituate , RI<br/><br/>The charter for the Scituate Library Company is
+                published in the Rhode Island General Assembly Report, February, 1796. (Warren:
+                Printed by Nathaniel Phillips, 1796.)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-06-25 08:41:51 <a href="mailto:mdorment@monmouth.edu"
+                    >maureen dorment</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Warrell's Riverside Library<br/><b>Location:
+                </b>Red Bank, NJ<br/><br/><br/>Do you have nay other information on this library.
+                I am researching Red Bank libraries and would appreciate any information that you
+                can give me on this entry. Maureen Dorment</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-06-24 11:25:51 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Ivy Hall Library<br/><b>Location: </b>Princeton,
+                NJ<br/><br/>Founded in 1872 (per title page of 1886 printed catalogue), 'the
+                ladies of Princeton maintain a library of their own, known as the Ivy Hall library,
+                which contains about fifteen hundred well selected volumes; and they frequently
+                enjoy courses of lectures on English Literature, History, and the Fine Arts, by some
+                of the professors of the institutions.' (Hageman, History of Princeton, [1879]
+                2:412).</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-04-18 20:05:30 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Fourth Ward Reading Room<br/><b>Location:
+                </b>New York, NY<br/><br/><br/><br/>The New York Herald<br/>February 5,
+                1861<br/>"A public meeting was held last evening in the large hall of<br/>the
+                Cooper Institute for the purpose of aiding Mr. Orville<br/>Gardner and the
+                committee to carry on the charitable<br/>institution located in the new Bowery, and
+                known as the Fourth<br/>Ward Reading Room - an institution intended to
+                reclaim<br/>drunkards and to prevent others from becoming such. Addresses<br/>were
+                made by Mr. Wm. C. Noyes, Rev. Dr. Chapin and Mr. Gardner,<br/>and the sum of $230
+                was collected from the audience."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-03-30 09:37:28 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Foreign Library<br/><b>Location: </b>Boston,
+                MA<br/><br/>See: Leslie Perrin Wilson, "No Worthless Books": Elizabeth Peabody’s
+                Foreign Library, 1840-1852," Papers of the Bibliographical Society of America 99:1
+                (March, 2005). And the website:
+                http://www.concordnet.org/library/scollect/Fin_Aids/Peabody_E_P.html</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-14 15:50:50 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>National Military Home - Putnam
+                    Library<br/><b>Location: </b>Dayton, OH<br/><br/>There is a large
+                contemporary photograph of this library's interior reproduced on page 47 of the Fall
+                2003 Harvard Library Bulletin (New Series, Vol 14 No 3). Also found at
+                <br/>http://www.dayton.med.va.gov/graphics/museum/bigpix/vmus116.JPG. Another
+                interior image is
+                at<br/>http://www.dayton.med.va.gov/graphics/museum/bigpix/vmus320.JPG</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:48:49 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Newburgh Historical Society<br/><b>Location:
+                </b>Newburgh, NY<br/><br/>"This society was organized in February, 1845, by Rev.
+                John Forsyth . . . and other gentlemen. . . . The society had an active existence
+                for about two years, during which time a considerable collection of manuscripts,
+                coins, minerals, etc., was made, now mainly preserved at Washington's
+                headquarters."--E. M. Ruttenber and L. H. Clark, History of Orange County, New York,
+                vol. 1 (1881; rpt. 980), 326.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:46:24 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Young Men's Mutual Improvement
+                    Society<br/><b>Location: </b>Newburgh, NY<br/><br/>"This society was
+                organized Nov. 20, 1840 by . . . young men, who took an interest in it, but were
+                debarred from participation in the debates instituted by the Mechanics' Library
+                Association. The society attained considerable strength and accumulated a library of
+                about 600 volumes, but after a year or two disbanded and transferred its books to
+                the Mechanics."--E. M. Ruttenber and L. H. Clark, History of Orange County, New
+                York, vol. 1 (1881; rpt. 1980), 326.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:42:39 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Free Library<br/><b>Location: </b>Newburgh,
+                NY<br/><br/>More information comes from E. M. Ruttenber and L. H. Clark, History
+                of Orange County, New York, vol. 1 (1881; rpt. 1980), 326: "By the act establishing
+                the present system of free schools, the several school district libraries of the
+                village were consolidated, and a single library established. The collection embraced
+                some 2000 volumes, principally standard works. By subsequent purchases the number
+                was increased to about 5000. In 1861 a union was effected with the Mechanics'
+                Library Association, by which a material addition was secured, and in 1865, by an
+                amendment to the free school law, the library thus formed became the Newburgh Free
+                Library, with power in the Board of Education to provide for its maintenance by tax.
+                During the year 1860 a very neat library building was erected, on Grand Street, by
+                the Board of Education, and was occupied until its removal in 1874. The present
+                commodious building was erected in 1876."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:36:34 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Newburgh Mechanics' Library
+                    Association<br/><b>Location: </b>Newburgh, NY<br/><br/>"This association was
+                organized Nov. 27, 1838, by the joint exertions of a few individuals who felt deeply
+                the necessity for an institution which should combine the advantages of a
+                well-selected library with that of a debating society. . . . March 29, 1842, the
+                association was incorporated, by an act of the Legislature, under the name of the
+                'Newburgh Mechanics' Library Association,' for the 'purpose of establishing and
+                maintaining a library, reading-room, literary and scientific lectures, and other
+                means of promoting the moral, intellectual, and mechanical improvement' of its
+                members." The account goes on to say that the library "was collected by the
+                contribution of books, and by purchases made from the proceeds of several fairs."
+                Upon acquiring the books of the Newburgh Library Association, q.v., on September 23,
+                1847, the association had more than 3000 volumes. The library was "continued until
+                1861, when public attention having been called to the subject in a series of
+                articles in the News,it was, by unanimous concurrence of the members, united with
+                the school library and the foundation of the present free library established."--E.
+                M. Ruttenber and L. H. Clark, History of Orange County, New York, vol. 1 (1980),
+                325-26.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:29:08 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Newburgh Library Association<br/><b>Location:
+                </b>Newburgh, NY<br/><br/>"The Newburgh Library Association was organized
+                December, 1835, by stock subscriptions. . . . The first books held by the
+                association were donated to it by individuals. Subsequently funds were raised by
+                fairs. In 1838 a regatta for the benefit of the library yielded $300; and during the
+                same year Abm. M. Smith, by will, gave $500 to the association. It continued in
+                existence until 1847, when it was united with the Mechanics' Library
+                Association."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:23:32 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Monroe Library Association<br/><b>Location:
+                </b>Monroe, NY<br/><br/>"The Monroe Library Association was founded Nov. 12, 1834.
+                . . . This seems to have been an attempt to establish a public library at Monroe
+                village, but there is little recollection of it remaining in that vicinity, and it
+                is probable the movement only attained vitality enough to become incorporated."--E.
+                M. Ruttenber and L. H. Clark, History of Orange County, New York, vol. 2 (1980),
+                800.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:19:49 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Franklin Library<br/><b>Location: </b>Warwick,
+                NY<br/><br/>"The Franklin Library was legally organized March 10, 1814. . . . The
+                paper was verified by the chairman before Judge John Steward, March 19, 1814. This
+                shows something of the literary enterprise at Florida [sic] in an early day."--E. M.
+                Ruttenber and L. H. Clark, History of Orange County, New York, vol. 2 (1980), 597.
+                The wording says nothing about the holdings, which is contrary to the usual pattern
+                for this particular work.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:16:49 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Warwick Library<br/><b>Location: </b>Warwick,
+                NY<br/><br/>"The Warwick Library was founded by an association formed Dec. 12,
+                1814, at the house of Isaac Dolsen. . . . A small library was bought and the books
+                put in circulation. . . . It lasted but a few years."--E. M. Ruttenber and L. H.
+                Clark, History of Orange County, New York, vol. 2 (1980), 527.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:12:58 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Farmers' Library<br/><b>Location: </b>Mount
+                Hope, NY<br/><br/>Incorporated Oct. 13, 1807. "The old library lasted twenty or
+                thirty years, but the books were finally scattered and the enterprise was
+                discontinued."--E. M. Ruttenber and L. H. Clark, History of Orange County, New York,
+                vol. 2 (1980), 515.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-13 12:09:01 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Middletown Library<br/><b>Location:
+                </b>Middletown, NY<br/><br/>Incorporated March 10, 1801. Reorganized in 1827 with
+                a new constitution adopted on March 13. As of March 31, 1828, the library had 279
+                vols. It is not known how long the library lasted. Source is E. M. Ruttenber and L.
+                H. Clark, History of Orange County, New York, vol. 2 (1980), 474. It may well be
+                that "Middletown Library" is not the exact name.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2005-01-02 15:08:22 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Parish Library<br/><b>Location: </b>Stow ,
+                MA<br/><br/>John Langdon Sibley's Private Journal, 1846-1882 (HUG<br/>1791.72.10)
+                states in entry for September 2, 1857 that a parish library<br/>was formed
+                evidently during his years as a Unitarian minister there.<br/>(See URL
+                http://hul.harvard.edu/huarc/refshelf/Sibley.htm)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-20 20:43:32 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>State Library<br/><b>Location: </b>Salt Lake
+                City, UT<br/><br/>See Levi Edgar Young "The First Library in Utah" Young Woman's
+                Journal v 21 no 10 Oct 1910 p 531-535</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-18 22:03:13 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Reading Room<br/><b>Location: </b>Sioux Falls,
+                SD<br/><br/>"Among the earliest towns to establish a reading room was Sioux Falls
+                ... destined<br/>to become South Dakota's largest municipality. Instigated by
+                private citizen<br/>Louisa Gale, the reading room opened in 1875 above the Williams
+                Brother's store."<br/>-- Lisa Lindell "Bringing Books to a 'Book-Hungry Land':
+                Print Culture on the Dakota Prairie" Book History (2004) p 219.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-18 10:00:23 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Nucleus Club<br/><b>Location: </b>Brunswick,
+                Maine<br/><br/>Source is Constitution, rules and orders, by-laws and library
+                regulations of the Nucleus Club, instituted April 7, 1820 (Brunswick: Griffin's
+                Press, 1830).</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-05 18:16:39 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Pioneer Historical Society<br/><b>Location:
+                </b>Cleveland, Ohio<br/><br/>Col. Charles Whittlesey, in his "Address," in
+                Charter, constitution and by-laws, of the Cleveland Library Association, together
+                with the XXIst annual report (Cleveland, 1867), writes, p. 28, of this institution:
+                "In 1857 a Pioneer Historical Society was formed, which maintained an active
+                existence until 1861. It has been the means of securing valuable papers, relating to
+                the settlement of this city, and the townships of our county. The recent war put an
+                end to its existence."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-05 18:09:50 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Academy of Natural Science<br/><b>Location:
+                </b>Cleveland, Ohio<br/><br/>Col. Charles Whittlesey, in his "Address," in
+                Charter, constitution and by-laws, of the Cleveland Library Association, together
+                with the XXIst annual report (Cleveland, 1867), writes, p. 28 of this
+                institution:<br/>"An Academy of Natural Science was incorporated . . . in November,
+                1845.<br/>"For a time the public manifested a lively interest, and contributed
+                through the agency of a social fair, the sum of about one thousand dollars. It yet
+                has a legal existence, but since the opening of the rebellion, has lapsed into a
+                dormant condition. Its collections, in the rooms of the Medical College, are not
+                convenient for the public, and no longer attract attention."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-05 18:03:10 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Mercantile Library<br/><b>Location:
+                </b>Cleveland, Ohio<br/><br/>Col. Charles Whittlesey, in his "Address," in
+                Charter, constitution and by-laws, of the Cleveland Library Association, together
+                with the XXIst annual report (Cleveland, 1867), notes, p. 26, with reference to the
+                Cleveland Library Association, under the year 1852-53: "2,201 volumes; power given
+                to form a Lyceum. Lectures provided for, and incorporated with the Mercantile
+                Library, which originated in 1850." Does this mean that the two institutions jointly
+                sponsored lectures, or does it mean that that the Cleveland Library Association
+                absorbed the Mercantile Library? In any case, it shows the existence of a mercantile
+                library in Cleveland.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-05 17:56:52 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Sanford &amp; Co's Circulating
+                    Library<br/><b>Location: </b>Cleveland, OH<br/><br/>Col. Charles Whittlesey,
+                in his "Address," in Charter, constitution and by-laws of the Cleveland Library
+                Association, together with the XXIst annual report (Cleveland, 1867)gives the names
+                of some of the "active members" of the Young Men's Literary Association, formed in
+                1837. Of A. S. Sanford, he adds: "General Sanford had previously maintained a
+                circulating library in connection with his book store."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-05 17:46:52 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Young Men's Literary
+                    Association<br/><b>Location: </b>Cleveland, Ohio<br/><br/>Col. Charles
+                Whittlesey, in his "Address," in Charter, constitution and by-laws, of the Cleveland
+                Library Association, together with the XXIst annual report (Cleveland, 1867), notes,
+                p. 25, that the Young Men's Literary Association, organized in the fall of 1836, had
+                800 volumes in 1837. "About the year 1843" it was dissolved; and although some books
+                were kept by members and others seized by creditors, "a few found their way into the
+                present Library." Another Young Men's Literary Association was formed in 1846, which
+                had 250 members in 1847. Although it kept the same name, its main goal was a
+                library. It is this organization that, it seems, became the Cleveland Library
+                Association in 1848, with 1,000 volumes. Whittelsey refes the reader to the preface
+                to the library's catalog for further information, although here is a list of
+                presidents, with numbers of volumes and number of members at a couple of
+                dates.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-12-05 17:34:01 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Cleveland Reading Room Assoc.<br/><b>Location:
+                </b>Cleveland, OH<br/><br/>Col. Charles Whittlesey, in his "Address," in Charter,
+                constitution and by-laws, of the Cleveland Library Association,together with the
+                XXIst annual report, notes, p. 25, that the Reading Room Association had "about two
+                hundred paying subscribers" and that "all the leading newspapers were spread upon
+                its desks and most of the leading magazines."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-11-24 17:29:39 <a href="mailto:vdow@ccls.org">Victoria
+                    Dow</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Library Assoc.<br/><b>Location: </b>West
+                Chester, PA<br/><br/>The library was housed at various locations in the Borough of
+                West Chester until 1888, when it moved into a fine new building at 415 North Church
+                Street. The land for the building was donated by Hannah Darlington; architect was T.
+                Roney Williamson; and the builder was Edward Paxson. Funding for the library came
+                from a number of sources, including, by 1900, a steady income from the Borough
+                itself. The building was expanded once, in 1916, to add a children's room. Since
+                then, the library has served as a community library as well as a school library for
+                the West Chester School District through the 1960s.<br/>The most recent development
+                in this library's existence: a thorough renovation and expansion of the 1888
+                building slated for completion in mid-2005. For photos of the building visit
+                www.wcpubliclibrary.org and click through to the "currently posted site."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-11-15 16:01:37 <a href="mailto:www.lawlibrary.state.mt.us "
+                    >Judy Meadows </a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Territorial Library<br/><b>Location: </b>Helena,
+                MT<br/><br/>Our library was formed in the late 1860's. The first books arrived
+                with the territorial judges appointed by Abraham Lincoln. The Montana State Library
+                was spun off of us several decades later.<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                <br/>Judy Meadows <br/>State Law Librarian of Montana <br/>PO Box 203004 Helena,
+                MT 59620 <br/>www.lawlibrary.state.mt.us <br/><br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-11-15 15:57:37 <a href="mailto:DHStam@maxwell.syr.edu">David
+                    Stam</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Army Signal Office<br/><b>Location:
+                </b>Washington, DC<br/><br/>"I can add that it ceased in 1891 when it merged with
+                the Dept of Agriculture Library."</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-11-11 13:55:31 <a href="mailto:hat.lib@verizon.net">Harriet
+                    Ehrsam</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Union Library Of Hatsboro<br/><b>Location:
+                </b>Hallenbeck, PA<br/><br/>The Union Library Company of Hatboro is located in
+                Hatboro PA. It seems to be listed as being in Hallenbeck in your database. It was
+                established in 1755 and the notes about the first 59 books are correct. If I can
+                give you any additional material please contact me. The library is celebrating its
+                250th anniversary in 2005.<br/>Harriet Ehrsam<br/>Library Director</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-11-04 10:15:56 <a href="mailto:Librlady@snet.net">Ladies
+                    Library of Abington</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Abington Social Library<br/><b>Location:
+                </b>Pomfret (Northeastern CT - Windham County), CT<br/><br/>The "Ladies Library of
+                Abington" was organized in 1813 in the parish of Abington in the town of Pomfret,
+                Windham county, Connecticut. In 1879 it formally united with the "United Library of
+                Abington"(organized in 1815).<br/>
+            </div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-11-01 15:52:25 <a href="mailto:uttaro@ogdenny.com">Patricia
+                    Uttaro</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Farmers' Library Company of the Town of
+                    Ogden<br/><b>Location: </b>Ogden/Spencerport, NY<br/><br/>Founded in 1815,
+                operated until mid-1870's when destroyed by fire; re-opened and chartered by NYS
+                Board of Regents in 1908.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-10-27 13:20:21 <a href="mailto:martha.imparato@washburn.edu"
+                    >Martha Imparato</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Washburn College<br/><b>Location: </b>Topeka,
+                KS<br/><br/>When this library was founded in 1865, it was called Lincoln College
+                Library. The name was changed in Nov. 1868 to Washburn College Library. Size of
+                collection was 2,000.<br/><br/>Martha Imparato<br/>Archives &amp; Special
+                Collections Librarian<br/>Mabee Library<br/>Washburn University<br/>Topeka,
+                KS</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-10-17 13:45:55 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Philadelphia Almshouse<br/><b>Location:
+                </b>Philadelphia, PA<br/><br/>"A house was lately built within the walls of the
+                [Philadelphia] alms-house, for the purpose of having a Library room, ..." -- page
+                92, in The Philanthropist or Institutions of Benevolence / by a Pennsylvanian
+                (Phila: Isaac Peirce, 1813). [This is almost 30 years earlier than the date given by
+                McMullen.]</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-10-07 22:21:48 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Fort Delaware Post Library<br/><b>Location:
+                </b>Fort Delaware, DE<br/><br/>Henry Kyd Douglas, of Hagerstown, Maryland wrote:
+                "In August, 1865, I was a prisoner in Fort Delaware, sent there by the sentence of a
+                military commission. My imprisonment was not a harsh one, and what with the courtesy
+                of the commanding officer, and free access to a well-filled library and the liberty
+                of the island, my time passed easily if not rapidly." -- page 240,<br/>Harrison,
+                Mrs. Burton, 1843-1920. Recollections Grave and Gay (NY: Scribners, 1911)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-10-06 20:55:43 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Belleville Public Library<br/><b>Location:
+                </b>Belleville, IL<br/><br/>Rhees notes that this was founded as a German Library
+                in 1836.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-10-05 06:19:22 <a href="mailto:kencarpenter@comcast.net">Ken
+                    Carpenter</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Lexington Athenaeum<br/><b>Location:
+                </b>Lexington, KY<br/><br/>Books turned over to Lexington Library in 1824; see
+                George W. Ranck, History of Lexington (1872), 196.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-27 14:51:40 <a href="mailto:casburn@io.com">Steve
+                    Casburn</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Missionary College of St.
+                    Augustine<br/><b>Location: </b>Benicio, CA<br/><br/>The proper spelling of
+                the town name is "Benicia".<br/><br/>(Great database, by the way!)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-22 17:55:18 <a
+                    href="mailto:Paula.Simpson@CityofPaloAlto.org">Paula Simpson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Monteray Library Assoc.<br/><b>Location:
+                </b>Monterey, CA<br/><br/>Mmore information about the Monterey Library is at URL
+                http://www.monterey.org/library/libhist.html<br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-22 10:53:36 <a href="mailto:nipps@fas.harvard.edu">Karen
+                    Nipps</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Ann Shallus's Circulating
+                    Library<br/><b>Location: </b>Philadelphia, PA<br/><br/>See note about this
+                library in Libraries &amp; Culture, Vol. 28, no. 3, (1993). See URL:
+                http://www.gslis.utexas.edu/~landc/bookplates/28_3_Shallus.htm</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-19 22:26:49 <a href="mailto:ferguson@princeton">Stephen
+                    Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Book Company of Durham<br/><b>Location:
+                </b>Durham, CT<br/><br/>According to Valerie Harrod, Director, Durham Public
+                Library,<br/>many of the books of the Book Company are in the possession of
+                the<br/>Durham Public Library as of June 2004. Also see article on this library in
+                Library History Seminar No. 3, Proceedings l968.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-14 17:21:03 <a href="mailto:rarebks@prbm.com">David
+                    Szewczyk</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Parsons' Library of the First Presbyterian
+                    Church<br/><b>Location: </b>Lockport, NY<br/><br/>First Presbyterian Church
+                (Lockport, NY). Catalogue of books in the Parsons' Library of the First Presbyterian
+                Church, Lockport, N.Y. 1883. Lockport, NY: James H. Murphy, printer, 3 Main Street,
+                1883. 12mo. 26 pp., [2] ff. <br/>Library was founded by William Parsons who died in
+                1855 and left an endowment for the acquisition of books.<br/> The Philadelphia Rare
+                Books &amp; Manuscripts Company (PRB&amp;M) [rarebks@prbm.com]</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-14 16:13:28 <a href="mailto:mrieder@uwc.edu">Mary
+                    Rieder</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Warikesha Co. Agricultural
+                    Society<br/><b>Location: </b>Warikesha, WI<br/><br/>This should be Waukesha
+                County Agricultural Society in Waukesha, WI.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-14 10:34:20 <a href="mailto:fheath@austin.utexas.edu"
+                    >Fred Heath</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Wesleyan College<br/><b>Location: </b>Florence,
+                AL<br/><br/>Alabama Wesleyan College was a predecessor to the regional university,
+                University of North Alabama (formerly Florence State Teachers' College). One of the
+                Wesleyan buildings remains on the campus; I do not know if any of the orignal books
+                and other resources of the Wesleyan era survive as an identifiable corpus. The
+                legendary Texan, Lawrence Sullivan Ross attended Alabama Wesleyan during the
+                pre-civil war era.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-11 11:26:59 <a href="mailto:cjagodzi@indiana.edu">Cecile
+                    Jagodzinski</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Milner Library, Illinois State
+                    University<br/><b>Location: </b>Normal, IL<br/><br/>I used to work at
+                Illinois State, and so have some knowledge of its history. The Unviersity was
+                founded in 1857, and there were several small libraries from the beginning. All
+                collections were centralized in 1890 with the hiring of the first librarian, Ange.
+                Milner.<br/><br/>Let me know if I can provide you with more details.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-10 14:50:25 <a href="mailto:nnoyes@mainehistory.org"
+                    >Nicholas Noyes</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Maine Historical Society<br/><b>Location:
+                </b>Portland, ME<br/><br/>The Maine Historical Society, founded in 1822, was for
+                most of its first century located at Bowdoin College in Brunswick,
+                Maine.<br/>Toward the end of the 19th c, it relocated to Portland, and it 1907
+                dedicated it's Library Headquarters beside the Wadsworth-Longfellow House, left to
+                the Society for the purpose of building here in Portland. So the two records (for
+                MHS and "Hist Soc of Maine") should be merged. </div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-10 10:28:58 <a href="mailto:twilder@rochester.rr.com">Tim
+                    Wilder</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Shelby Library<br/><b>Location: </b>Shelby ,
+                NY<br/><br/>I have a scrapbook containing manuscript "By Laws of Shelby [N.Y.]
+                Library" (5 pp., 4to.) together with "Record of the Proceedings of the Shelby
+                Library" (18 pp.), 1824-1839. The records cover the life of this subscription
+                library, the last entry being a motion to dissolve the corporation and sell the
+                books. The by-laws detail the terms and conditions for withdrawing and returning
+                books and the minutes include the names of trustees, appointment of librarians and
+                their salaries, monies expended for books, institution of a library seal (eagle
+                within a circle), &amp;c. The trustees and proprietors include the names of many of
+                the pioneers of Shelby, a present-day township comprising several hamlets south of
+                Medina, N.Y., in Orleans County. I have not found any reference to the number of
+                volumes in the library, but the motion to dissolve includes a resolution "that the
+                trustees make out a catalog[u]e of the Books and have it printed with an
+                Advertisement of selling the same and be paid for procuring the same." Further
+                information cheerfully provided upon request.<br/>Tim Wilder<br/>Timothy B.
+                Wilder, Rare Books<br/>Rochester, NY</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-09 14:37:29 <a href="mailto:ashaner@nyam.org">Arlene
+                    Shaner</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>The New York Academy of Medicine
+                    Library<br/><b>Location: </b>New York, NY<br/><br/>The New York Academy of
+                Medicine was founded in 1847 as an organization concerned with the regulation of
+                mediicne and also as a kind of doctors' club. NYAM had a library almost immediately
+                (the first books were donated at the second meeting). In the beginning the library
+                was open only to Fellows of the Academy for their use, but late in 1878 the Council
+                (the governing body of the institution), at the request of Samuel Smith Purple, MD,
+                President, voted to open the collection to the public. We have been one of the only
+                medical libraries open to the public for more than 125 years.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-09 11:31:38 <a href="mailto:ilc4@lehigh.edu">ilhan
+                    citak</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Moravian College<br/><b>Location: </b>Bethlehem,
+                PA<br/><br/>Locality on the database list appears as "Bethleham", it should be
+                "Bethlehem"</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-09 11:30:40 <a href="mailto:ilc4@lehigh.edu">ilhan
+                    citak</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Lehigh University<br/><b>Location:
+                </b>Bethleham, PA<br/><br/>Extras is not the right catalog card.</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-09-09 11:29:01 <a href="mailto:ilc4@lehigh.edu">ilhan
+                    citak</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Lehigh University<br/><b>Location:
+                </b>Bethleham, PA<br/><br/>Locality is not "Bethleham" but it is "Bethlehem"</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-20 11:59:20 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Rutgers College - Philoclean
+                    Society<br/><b>Location: </b>New Brunswick, NJ<br/><br/>Records of the
+                Society are in the Archives at Rutgers University. See their cataloguing record and
+                link to the finding aid for these records. &gt;&gt;<br/>Philoclean Society (Rutgers
+                University)<br/> Title: Records, 1825-1927 (bulk 1825-1890)<br/> Physical descrip:
+                6.5 cubic ft. (15 manuscript boxes)<br/> Scope and content: Records of the
+                Philoclean Society (1825-1927)<br/> including correspondence, minutes, constitution
+                and<br/> by-laws, membership lists, addresses, committee<br/> reports, and
+                officers' reports. There are also<br/> account books, receipts, dues books, library
+                catalogs,<br/> registers of books borrowed, clippings, and ephemera. <br/> The
+                majority of the records date from 1825-1894, with<br/> thegreatest number of
+                documents deriving from the<br/> 1830's through the 1850's. Records from the
+                re-formed<br/> Philoclean Society date from 1907-1927 and constitute<br/> a
+                significantly smaller part of the collection. <br/> Activities of the society from
+                1920 to 1927 are<br/> represented only by newspaper clippings.<br/> Scope and
+                content: The records detail the society's meetings,<br/> correspondence, actions of
+                committees, constitutional<br/> changes, membership, financial affairs, and
+                the<br/> content and management of it's library. The records<br/> also reveal the
+                society's relationships with the rival<br/> Peithessophian Society, the college
+                faulty, local<br/> businesses, alumni, and the public at large. <br/>
+                Correspondence includes letters from public figures,<br/> alumni, businesses, and
+                communications with the<br/> Peithessophian Society and the faculty. Many of
+                the<br/> letters are responses to the society's offerings of<br/> honorary
+                membership and requests for speaking<br/> engagements. Correspondents include John
+                Quincy<br/> Adams, William Cullen Bryant, James Buchanan, James<br/> Fennimore
+                Cooper, Thomas Alva Edison, Edward Everett,<br/> Fitz-Greene Halleck, Washington
+                Irving, Andrew<br/> Jackson, Horace Mann, David Murray, Theodore Romeyn,<br/>
+                William Seward, Zachary Taylor, William Makepeace<br/> Thackeray, John Tyler,
+                Daniel Webster, Noah Webster,<br/> and Henry A. Wise. It should be noted that<br/>
+                correspondence from these an other recognizable names<br/> is usually limited to
+                one or two letters. A listing<br/> of correspondents for many of the letters
+                concerning<br/> honorary membership is contained in the finding aid.<br/> Scope
+                and content: Minutes (1825-1915 with gaps) include debate topics,<br/> participants
+                and winners, fines for absenses and<br/> disorder, and proposed amendments.
+                Constitution and<br/> by-laws (1828-1915) contains revisions of the<br/>
+                constitutionwith amendments for the majority of the<br/> society's existence.
+                Membership Lists concentrate on<br/> honorary members from 1825-1866. The
+                Addresses,<br/> 1828-1919 (bulk 1828-1883) include inaugural addresses<br/> given
+                by the president of the society upon election. <br/> The inaugural addresses from
+                the most comprehensive<br/> gathering of student essays in the collection,
+                and,<br/> include the addresses of William Elliot Griffis and<br/> William H. S.
+                Demarest. Commencement addresses, given<br/> by well known orators, sponsored and
+                published by the<br/> society include those delivered by William Craig<br/>
+                Brownlee (1827), John Sergeant (1829), Theodore<br/> Freylinghuysen (1831), John D.
+                Ogilby (1833), David<br/> Paul Brown (1835), Daniel D. Barnard (1837),
+                Theodore<br/> Romeyn (1847), Joseph P. Bradley (1849), George<br/> William Brown
+                (1851), Frederick T. Frelinghuysen<br/> (1853), Charles Murray Nairne (1857), and
+                Theodore W.<br/> Dwight (1859). <br/> Scope and content: Committee records,
+                strongest from 1827 through the<br/> 1860*s, are the best source for information on
+                the<br/> internal politics of the society, as well as<br/> documenting relations
+                with the Peithessophian Society,<br/> the faculty, and the administration.
+                Treasurer's<br/> records have survived consistently from 1825-1882 and<br/>
+                contain reports, account books, and loose receipts. <br/> The Librarian's records,
+                1827-1889, reveal the<br/> literary inclinations of 19th-Century college<br/>
+                students. Catalogs for the years 1828, 1834, 1837,<br/> 1850, 1867, and 1875
+                document the library's holdings. <br/> The book of borrowers (1827-1889) records
+                the reading<br/> habits of individual students.<br/>
+                <br/> Electronic access: Electronic access to Finding Aid for Collection:<br/>
+                http://www2.scc.rutgers.edu/ead/uarchives/philof.html<br/><br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-19 23:54:31 <a href="mailto:mihai@alumni.princeton.edu"
+                    >Mihai Parparita</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Rutgers College - Peithosophian
+                    Society<br/><b>Location: </b>New Brunswick, NJ<br/><br/>Corporate author:
+                Peithessophian Society (Rutgers University)<br/> Title: Records, 1825-1927 (bulk
+                1825-1891, 1925-1927)<br/> Physical descrip: 8 cubic ft. (16 manuscript
+                boxes)<br/> Scope and content: Records of the Peithesopphian Society date
+                from<br/> 1825-1927. The bulk of the papers date from 1825-1891,<br/> with a
+                supplementary set of papers from the Society's<br/> revival dating from 1923-1927.
+                Sixteen manuscript<br/> boxes contain minutes, correspondence, receipts and<br/>
+                reports. Bound volumes include Treasurer's Records<br/> from 1831-1881.
+                Constitutions and By-laws from<br/> 1830-1847 and 1876-1891 are also in bound
+                volumes. <br/> Minutes of the Society are in bound volumes and loose<br/> papers
+                in folders, covering the years 1825-1890 and<br/> 1923-1927. Bills and vouchers are
+                in folders,<br/> covering the years 1847-1884. There are<br/> miscellaneous papers
+                from 1826-1891, general<br/> correspondence from 1828-1875, and 1923-1926.<br/>
+                Correspondence with the Philoclean Society, a rival<br/> literary society at
+                Rutgers, dates from<br/> 1820-1868.Addresses presented to the Society date
+                from<br/> 1829-1882, and 1923-1926, some of which are bound.<br/> There are lists
+                of Honorary Members, bound, from<br/> 1825-1858 and Membership Record Books and
+                Registrar's<br/> Books from 1843-1879, and 1923-1926.<br/> Scope and content:
+                Librarian's Reports cover 1827-1882, and there are<br/> also Library Catalogues for
+                1834 and 1864, and<br/> Librarian's Circulation Registers from 1857-1886. <br/>
+                There are History and By-Laws dating 1923 and 1927,<br/> and a Society photograph
+                dated 1923. The records are<br/> arranged in series and subseries, then
+                arranged<br/> chronologically. Appendix A lists the correspondents<br/> to the
+                Society, chronologically, giving name, date,<br/> and address, with occasional
+                notations. Appendix B<br/> lists Addresses before the Society, with date,
+                speaker<br/> and title of Address, from 1829-1881. Appendix C<br/> lists Addresses
+                given before the Society during the<br/> Society's revival from 1923-1924, plus a
+                list of<br/> undated addresses.<br/>Electronic access: Electronic access to
+                finding aid for
+                collection:<br/>http://www2.scc.rutgers.edu/ead/uarchives/peithof.html</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-18 09:32:42 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Suffolk Circulating Library<br/><b>Location:
+                </b>Boston, MA<br/><br/>Princeton Univ Library Parrish Collection / Disraeli 70
+                has label ofthe Suffolk Circulating Library giving conditions of use. (The bookis
+                the Phila., 1827 edition of Vivian Gray.)<br/></div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-17 23:07:55 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>New Brunswick Library Co.<br/><b>Location:
+                </b>New Brunswick, NJ<br/><br/>The Princeton Univ. Library has records for this
+                Library. See:<br/>New Brunswick Library Company (N.J.)<br/>Title: A catalogue of
+                books belonging to the New Brunswick library company formed<br/>by the junction of
+                the Brunswick &amp; Union library companies in the month of April, 1821 :
+                manuscript,<br/>Compiled/Created: 1821-1835.<br/>Description: 1 v. (81 leaves); 42
+                cm.<br/>Linking Notes: Forms part of the General Collection of Bound Manuscripts
+                (C0199).<br/>Summary Note: Catalog of books, written in unknown hand, belonging to
+                the New Brunswick<br/>Library Company, dated Nov. 27, 1821; together with
+                circulation records (106 p.), dated 1821-1835.<br/>Source of Acquisition: Purchase;
+                Annie Rhodes Gulick and Alexander Reading Gulick Memorial Fund.<br/>Subject(s): New
+                Brunswick Library Company (N.J.)<br/>Library catalogs--New Jersey--New
+                Brunswick--19th century.<br/>Library circulation and loans--New Jersey--New
+                Brunswick--19th century.<br/>Public libraries--New Jersey--New Brunswick--19th
+                century.<br/>New Brunswick (N.J.)--Library resources--19th
+                century.<br/>Form/Genre: Catalogs--New Jersey--New Brunswick--19th
+                century.<br/>Library catalogues--New Jersey--New Brunswick--19th
+                century.<br/>Location: Rare Books: Manuscripts Collection (MSS)<br/>Call Number:
+                Oversize C0199 (no. 1340)</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-10 23:41:40 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b>Quincy Circulating Library<br/><b>Location:
+                </b>Quincy, MA<br/><br/>Parrish Collection / Dickens 293 is copy of NY, 1841 ed of
+                Master Humphrey's Clockin vol 2 is pasted-down slip 'Conditions of the Quincy
+                Circulating Library'</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-04 15:10:51 <a href="mailto:jgreen@librarycompany.org"
+                    >Jim Green</a> wrote:</div>
+            <div class="body"><b>Library Name: </b> Hospital Medical Library<br/><b>Location: </b>
+                Philadelphia, PA<br/><br/>Surely this should be Pennsylvania HOspital medical
+                library</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-04 15:06:26 <a href="mailto:jgreen@librarycompany.org"
+                    >Jim Green</a> wrote:</div>
+            <div class="body"><b>Library Name: </b> Garret Noel's Circulating
+                    Library<br/><b>Location: </b> New York, NY<br/><br/>This should be *Garrat*
+                Noel. See Kaser, Book for a Sixpence, p.26</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-04 15:03:12 <a href="mailto:jgreen@librarycompany.org"
+                    >Jim Green</a> wrote:</div>
+            <div class="body"><b>Library Name: </b> Samuel London's Circulating
+                    Library<br/><b>Location: </b> New York, NY<br/><br/>This should be Samuel
+                *Loudon* see Kaser, Book for a Sixpence, p.37</div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-08-02 20:36:18 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b> Princeton Library Co.<br/><b>Location: </b>
+                Princeton, NJ<br/><br/>At the Princeton Univ. Library, there are records for the
+                PrincetonLibrary Company. See: Princeton Library Company (Princeton, N.J.) Title:
+                Account book for subscribers, Compiled/Created: 1812-1833. Description: 1 v. (172
+                p.) ; 21 x 18 cm. Summary Note: Account book for the Princeton Library Co.,
+                containing lists of subscribers with dates and purchase amounts. Source of
+                Acquisition: Gift; C. Otto V. Kienbusch. Acc. no. AM 13809. Subject(s):
+                Libraries--New Jersey--Princeton--History--19th century--Sources. Form/Genre:
+                Account books--New Jersey--Princeton--19th century. Related Name(s): Von Kienbusch,
+                Carl Otto Kretzschmar, 1884-1976, donor. Location: Rare Books: Manuscripts
+                Collection (MSS) Call Number: C0199 (no. 861) </div>
+
+        </div>
+        <div class="comment">
+            <div class="header">On 2004-07-20 15:35:07 <a href="mailto:ferguson@princeton.edu"
+                    >Stephen Ferguson</a> wrote:</div>
+            <div class="body"><b>Library Name: </b> Old Warwick Library Assoc.<br/><b>Location:
+                </b> Old Warwick, RI<br/><br/>The Princeton University Library has the records of
+                this library. See the Library'scatalogue record:Author/Artist: Old Warwick Library
+                Association (Warwick, R.I.) Title: Records, constitution, and by-laws of the Old
+                Warwick Library Association : manuscript, Compiled/Created: 1847-1881. Description:
+                1 v. ([38] leaves); 21 cm. Summary Note: Record book of the Old Warwick Library
+                Association, a social library instituted in Warwick, Rhode Island in 1847. Includes
+                a manuscript copy of the constitution and by-laws followed by a list of members and
+                meeting minutes, dated Dec. 6, 1847 - Nov. 1881. Source of Acquisition: Purchase
+                from Palinurus Books, 2004. AM 2004- Location: Rare Books: Manuscripts Collection
+                (MSS) Call Number: C0938 (no. 65) </div>
+
+        </div>
+    </body>
+</html>
