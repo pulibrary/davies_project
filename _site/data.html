@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="/assets/lib/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="/assets/lib/datatables/datatables.min.css"><link rel="stylesheet" href="/assets/css/cb.css" type="text/css">
 
-<!-- Last build date: 2024-05-15 -->
+<!-- Last build date: 2024-05-22 -->
   </head>
   <body class="d-flex flex-column h-100">
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -70,15 +70,14 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/locations.html">States &amp; Localities</a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Timelines</a>
-                    <div class="dropdown-menu">
-                        
-                        <a class="dropdown-item " href="/timeline.html">Full Timeline</a>
-                        
-                    </div>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/timeline.html">Timeline</a>
                 </li>
                 
+                <li class="nav-item">
+                    <a class="nav-link" href="/sources.html">Sources</a>
+                </li>
                 
                 <li class="nav-item">
                     <a class="nav-link active" href="/data.html">Data</a>
@@ -86,6 +85,10 @@
                 
                 <li class="nav-item">
                     <a class="nav-link" href="/about.html">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/blog.html">Blog</a>
                 </li></ul>
             
             <script>
@@ -111,129 +114,12 @@
     <main id="maincontent" role="main" class="flex-shrink-0">
       <div class="container my-4">
   
-<button type="button" class="btn btn-primary btn-lg float-md-end" data-bs-toggle="modal" data-bs-target="#dataModal">Download Data</button>
-<!-- Modal -->
-<div class="modal fade" id="dataModal" tabindex="-1" role="dialog" aria-labelledby="dataModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title" id="dataModalLabel">Collection Data</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-
-                <p>Download this collection's data in a variety of reusable formats.</p>
-
-                
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">Complete Metadata</h2>
-                        <p class="card-text">All metadata fields for all collection items, available as a CSV spreadsheet (usable in Excel, Google Sheets, and similar programs) or JSON file (often used with web applications).</p>
-                        <a href="/assets/data/metadata.csv" class="btn btn-outline-dark" target="_blank">Metadata CSV</a>
-                        <a href="/assets/data/metadata.json" class="btn btn-outline-dark" target="_blank">Metadata JSON</a>
-                    </div>
-                </div><div class="card my-3">
-                    <div class="card-body">
-                        <h2 class="card-title h4">Website Source Code</h2>
-                        <p class="card-text">GitHub repository containing source code for this project built with <a href="https://github.com/CollectionBuilder/collectionbuilder-csv" target="_blank" rel="noopener">CollectionBuilder-CSV</a>.</p>
-                        <a href="https://github.com/pulibrary/davies_project" class="btn btn-outline-dark" target="_blank" rel="noopener">Source Code</a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-<script type="application/ld+json">
-{
-    "@context":"https://schema.org/",
-    "@type":"Dataset",
-    "name":"American Libraries before 1876 Data",
-    "description":"Metadata and data derived from American Libraries before 1876. Professor Haynes McMullen compiled a set of punched cards in his decades-long research into American Libraries before 1876. The punched cards have been photographed and their data captured in a data table now being made available at this site.",
-    "keywords":  ["libraries","American libraries","pre-1846"],
-    "url":"http://localhost:4000/data.html",
-    "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-    "creator": [
-        {
-            "@type": "Organization",
-            "sameAs": "https://library.princeton.edu/",
-            "name": "Princeton University Library"
-        }
-    ],
-    "hasPart" : [
-        
-        {
-            "@type": "Dataset",
-            "name": "American Libraries before 1876 Metadata Facets",
-            "description": "Unique values and counts of metadata facet fields.",
-            "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-            "distribution":[
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"JSON",
-                    "contentUrl":"http://localhost:4000/assets/data/facets.json"
-                }
-            ]
-        },
-        {
-            "@type": "Dataset",
-            "name": "American Libraries before 1876 metadata location counts",
-            "description": "Unique values and counts of metadata location fields.",
-            "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-            "distribution":[
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"CSV",
-                    "contentUrl":"http://localhost:4000/assets/data/locations.csv"
-                },
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"JSON",
-                    "contentUrl":"http://localhost:4000/assets/data/locations.json"
-                }
-            ]
-        },
-        {
-            "@type": "Dataset",
-            "name": "American Libraries before 1876 timeline metadata",
-            "description": "Time-based metadata formatted for TimelineJS or other applications.",
-            "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-            "distribution":[
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"JSON",
-                    "contentUrl":"http://localhost:4000/assets/data/timelinejs.json"
-                }
-            ]
-        },{
-            "@type": "Dataset",
-            "name": "American Libraries before 1876 full metadata",
-            "description": "Complete metadata export for American Libraries before 1876 objects.",
-            "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-            "distribution":[
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"CSV",
-                    "contentUrl":"http://localhost:4000/assets/data/metadata.csv"
-                },
-                {
-                    "@type":"DataDownload",
-                    "encodingFormat":"JSON",
-                    "contentUrl":"http://localhost:4000/assets/data/metadata.json"
-                }
-            ]
-        }
-    ]
-}
-</script>
-
 
 <h2 id="collection-metadata">Collection Metadata</h2>
 
 <p>The table below provides sorting and basic search of the collection contents. 
-Use the “CSV” button below to download the filtered metadata you see on the page. 
-Alternatively, click the “Download” button at the top right to view the full collection metadata in various formats.</p>
+Use the “Excel” and “CSV” buttons below to download the filtered metadata you see on the page.
+Alternatively, the site’s <a href="https://github.com/pulibrary/davies_project">source code is available on GitHub</a>.</p>
 
 
 <div class="table-responsive-md">
@@ -275,6 +161,7 @@ Alternatively, click the “Download” button at the top right to view the full
     </table>
 </div>
     
+
 </div>
     </main>
     <footer class="bg-dark pt-4 mt-auto container-fluid">
