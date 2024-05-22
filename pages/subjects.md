@@ -26,7 +26,7 @@ cloud-fields: site.data.theme.subjects-fields
             <dt>Agricultural society library. </dt>
             <dd>A library owned by a society formed because its members were interested in
                 agriculture. Some of these were called <i>Farmers' clubs</i>.</dd>
-            <dt<>Antiquarian library. </dt>
+            <dt>Antiquarian library. </dt>
             <dd>In this study, such a library is considered as a <i>Historical society
                 library.</i></dd>
             <dt>Apprentices' library. </dt>
