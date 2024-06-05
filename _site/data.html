@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="/assets/lib/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="/assets/lib/datatables/datatables.min.css"><link rel="stylesheet" href="/assets/css/cb.css" type="text/css">
 
-<!-- Last build date: 2024-05-22 -->
+<!-- Last build date: 2024-06-05 -->
   </head>
   <body class="d-flex flex-column h-100">
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -60,7 +60,11 @@
                 </li>
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="/browse.html">Browse</a>
+                    <a class="nav-link" href="/about.html">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link active" href="/data.html">Data</a>
                 </li>
                 
                 <li class="nav-item">
@@ -80,11 +84,7 @@
                 </li>
                 
                 <li class="nav-item">
-                    <a class="nav-link active" href="/data.html">Data</a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="/about.html">About</a>
+                    <a class="nav-link" href="/browse.html">Unisort Cards</a>
                 </li>
                 
                 <li class="nav-item">
@@ -115,14 +115,18 @@
       <div class="container my-4">
   
 
-<h2 id="collection-metadata">Collection Metadata</h2>
-
-<p>The table below provides sorting and basic search of the collection contents. 
-Use the “Excel” and “CSV” buttons below to download the filtered metadata you see on the page.
-Alternatively, the site’s <a href="https://github.com/pulibrary/davies_project">source code is available on GitHub</a>.</p>
-
 
 <div class="table-responsive-md">
+    <h2 id="data-table">Data Table</h2>
+<p>Data from McMullen’s punch cards was extracted into a table at
+Princeton University.  The table below may be sorted by column and
+searched using simple keywords.</p>
+
+<p>Use the “Excel” and “CSV” buttons below to download the filtered
+metadata you see on the page.  Alternatively, the site’s <a href="https://github.com/pulibrary/davies_project">source code
+is available on GitHub</a>.</p>
+
+
     <table id="item-table" class="table table-striped">
         <thead>
             <tr>
@@ -160,7 +164,6 @@ Alternatively, the site’s <a href="https://github.com/pulibrary/davies_project
         </thead>
     </table>
 </div>
-    
 
 </div>
     </main>
