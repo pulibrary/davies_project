@@ -25,20 +25,11 @@ the cards.
 
 On the cards Professor McMullen used the following symbols:
 
-<dl>
-<dt>FD (Founding Date):</dt> <dd>Date of founding</dd>
-<dt>EM (Earliest Mention):</dt>  <dd>Earliest date at which the library is known to have existed (used only when FD is not known)</dd>
-
-<dt>ML (Mentioned Last):</dt>  <dd>Latest date at which the library is known to have been in existence (used only when CE is unknown)</dd>
-<dt>CE  (Ceased Existence):</dt> <dd>Date at which the library ceased to exist</dd>
-
-
-<dt>DE (Date Earliest):</dt> <dd>Earliest date for which the size of the library (in volumes) is known</dd>
-<dt>SZ (Size):</dt>  <dd>Size at the date given in DE</dd>
-
-<dt>LD  (Latest Date):</dt> <dd>Latest date for which the size of the library (in volumes) is known</dd>
-<dt>VS (Size at LD):</dt> <dd>Size at the date given in LD</dd>
-
-</dl>
-
-Those symbols are used at the head of columns of the database, as well as on the original cards.
+- *FD (Founding Date):* Date of founding
+- *EM (Earliest Mention):* Earliest date at which the library is known to have existed (used only when FD is not known)
+- *ML (Mentioned Last):*  Latest date at which the library is known to have been in existence (used only when CE is unknown)
+- *CE (Ceased Existence):* Date at which the library ceased to exist
+- *DE (Date Earliest):*  Earliest date for which the size of the library (in volumes) is known
+- *SZ (Size):*  Size at the date given in DE
+- *LD  (Latest Date):* Latest date for which the size of the library (in volumes) is known
+- *VS (Size at LD):* Size at the date given in LD

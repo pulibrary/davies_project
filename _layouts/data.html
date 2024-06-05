@@ -1,13 +1,14 @@
 ---
 # "Data" page with table and data download options
 layout: page
-custom-foot: js/table-js.html 
+custom-foot: js/table-js.html
 ---
 {% assign fields = site.data.config-table | map: 'display_name' %}
 
-{{ content }}
 
 <div class="table-responsive-md">
+    {{ content }}
+
     <table id="item-table" class="table table-striped">
         <thead>
             <tr>
@@ -19,4 +20,3 @@ custom-foot: js/table-js.html
         </thead>
     </table>
 </div>
-    
