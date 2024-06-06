@@ -8,17 +8,17 @@ existed in what is now the continental United States from the time of
 first settlement through 1875. It records nearly 10,000 libraries.
 
 The end-date of 1876 is important because in that year the United
-State Bureau of Education published its first comprehensive, national
-listing of libraries, entitled <i>Public Libraries in the United
-States of America: Their History, Condition, and Management. Special
-Report. Part.  1</i> (Washington, DC: Government Printing Office,
-1876).  This massive work &mdash; 1187 pages &mdash; of facts and
-statistics began a continuous series of such like publications
-stretching down to the present. See the [website of the National
-Commission on Libraries and Information
-Science](http://ncis.gov/statsurv/NCES/edpubs.html "NCLIS") for the
-series's list.  The present database extends this series of facts and
-statistics back to the first colonial libraries.
+State Bureau of Education published its first
+comprehensive, national listing of libraries, entitled
+[<i>PublLibraries in the United States of America: Their
+History, Condition, and Management. Special Report. Part.
+1</i> (Washington, DC: Government Printing Office,
+1876)](https://archive.org/details/cu31924029529553).
+This massive work &mdash; 1187 pages &mdash; of facts and
+statistics began a continuous series of publications
+stretching down to the present. The present database
+extends this series of facts and statistics back to the
+first colonial libraries.
 
 Most of the libraries before 1876 were very
 small, a few hundred books at the most; and most had a very
@@ -35,4 +35,4 @@ of them. Indeed, the record of the existence of many stems from
 an almost passing mention or a brief listing. Many more surely
 existed, but that likelihood by no means takes away from the
 utility of this database. In almost all cases the patterns that
-it reveals will continue to stand
+it reveals will continue to stand.
