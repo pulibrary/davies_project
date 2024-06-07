@@ -3,6 +3,8 @@ layout: page
 title: Home
 permalink: /
 ---
+<!-- Last build date: {{ site.time | date: "%Y-%m-%d" }} -->
+
 This database covers institutional and commercial libraries that
 existed in what is now the continental United States from the time of
 first settlement through 1875. It records nearly 10,000 libraries.
@@ -10,9 +12,10 @@ first settlement through 1875. It records nearly 10,000 libraries.
 The end-date of 1876 is important because in that year the United
 State Bureau of Education published its first
 comprehensive, national listing of libraries, entitled
-[<i>PublLibraries in the United States of America: Their
-History, Condition, and Management. Special Report. Part.
-1</i> (Washington, DC: Government Printing Office,
+[<i>Public libraries in the United States of America; their
+history, condition, and management. Special report, Department
+of the Interior, Bureau of Education. Part I</i>
+(Washington, DC: Government Printing Office,
 1876)](https://archive.org/details/cu31924029529553).
 This massive work &mdash; 1187 pages &mdash; of facts and
 statistics began a continuous series of publications
