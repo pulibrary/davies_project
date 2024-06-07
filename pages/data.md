@@ -4,8 +4,11 @@ layout: data
 permalink: /data.html
 ---
 
-## Collection Metadata
+## Data Table
+Data from McMullen's punch cards was extracted into a table at
+Princeton University.  The table below may be sorted by column and
+searched using simple keywords.
 
-The table below provides sorting and basic search of the collection contents. 
-Use the "Excel" and "CSV" buttons below to download the filtered metadata you see on the page.
-Alternatively, the site's [source code is available on GitHub](https://github.com/pulibrary/davies_project).
+Use the "Excel" and "CSV" buttons below to download the filtered
+metadata you see on the page.  Alternatively, the site's [source code
+is available on GitHub](https://github.com/pulibrary/davies_project).

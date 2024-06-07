@@ -9,6 +9,14 @@ cloud-fields: site.data.theme.subjects-fields
 ## Library Types
 <html>
 <body>
+<p>The type-of-library terms are taken, with some additions and changes, from American Libraries before 1876, by Haynes McMullen (Copyright © 2000 by Haynes McMullen).</p>
+
+<p>Most are the terms are the ones actually used before 1876, although some are those employed by recent writers on American library history.  A couple of terms have no entries in the database but are listed here because they surely will one day.</p>
+
+<p>Some researchers may be tempted to argue in certain cases for different terms.  There is, however, benefit to employing here the terms used by McMullen in his book, for standardization has benefits.  McMullen developed them to try to avoid ambiguity.  For example, 'circulating library' is itself an ambiguous term, applicable to almost all libraries, so McMullen employed 'commercial circulating library' to designate those operated as a business.</p>
+
+<p>It may be, however, that some existing terms will be further subdivided, and some may be added.  Certainly, African American Library should be, and the scholarship on the topic should be searched to identify information on the institutions.  It may also be desirable to add terms for other types of institutions of reading, such as book clubs that did not form libraries but only circulated books among members.</p>
+
         <dl>
             <dt>Academy Library.</dt>
             <dd> Almost always the library of a secondary school, so not included in the main part
