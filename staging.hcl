@@ -2,7 +2,7 @@ variable "branch_or_sha" {
   type = string
   default = "main"
 }
-job "milberg-staging" {
+job "daviesproject-staging" {
   region = "global"
   datacenters = ["dc1"]
   node_pool = "staging"
